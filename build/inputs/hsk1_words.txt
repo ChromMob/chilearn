@@ -1,0 +1,151 @@
+# zh	pinyin	auto-gloss	full dictionary meaning
+的	de	of; ~'s	of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression)
+了	liǎo	to finish; to achieve	to finish; to achieve; to understand clearly
+我	wǒ	I; me	I; me; my
+是	shì	to be; correct	to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well
+你	nǐ	you	you (informal, as opposed to courteous 您)
+在	zài	to exist; to be alive	to exist; to be alive; (of sb or sth) to be (located) at; (used before a verb to indicate an action in progress)
+不	bù	no; not so	no; not so; (bound form) not; un-
+有	yǒu	to have; there is	to have; there is; (bound form) having; with; -ful; -ed; -al (as in 意 intentional)
+他	tā	he; him	he; him (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object)
+这	zhè	this; these	(pronoun) this; these; (bound form) this; the (followed by a noun); (bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)
+个	gè	individual	(classifier used before a noun that has no specific classifier); (bound form) individual
+和	hé	old variant of 和	old variant of 和
+人	rén	person; people	person; people
+我们	wǒ men	we; us	we; us; ourselves
+好	hǎo	good; appropriate	good; appropriate; proper; all right!
+一	yī	one; single	one; single; a (article)
+会	huì	can; to have the skill	can; to have the skill; to know how to; to be likely to; to be sure to; to meet; to get together
+都	dōu	all; both	all; both; entirely; (used for emphasis) even; already
+上	shàng	up; upper	(bound form) up; upper; above; previous; first (of multiple parts); to climb; to get onto; to go up
+来	lái	to come; hither	to come; (used as a substitute for a more specific verb); hither (directional complement for motion toward the speaker, as in 回来)
+很	hěn	quite; very	(adverb of degree); quite; very
+去	qù	to go; to go to	to go; to go to (a place); (of a time etc) last
+她	tā	she	she
+想	xiǎng	to think; to think of	to think (about); to think of; to devise; to think (that); to believe (that)
+能	Néng	surname Neng	surname Neng
+那	nà	that; the	(specifier) that; the; those (colloquial pr. [nèi]); (pronoun) that (referring to persons, things or situations); then (in that case)
+看	kàn	to see; to look at	to see; to look at; to read; to watch
+做	zuò	to make; to produce	to make; to produce; to write; to compose; to do; to engage in; to hold (a party etc)
+什么	shén me	what?; something	what?; something; anything
+点	diǎn	point; dot	point; dot; drop
+没	méi	have not; not	(negative prefix for verbs) have not; not
+大	dà	big; large	big; large; great; older (than another person); eldest (as in 姐)
+下	xià	down; downwards	down; downwards; below
+里	lǐ	variant of 里	variant of 里
+现在	xiàn zài	now; at present	now; at present; at the moment
+年	Nián	surname Nian	surname Nian
+多	duō	many; much	many; much; too many; in excess; (after a numeral) ... odd
+吗	ma	question particle for "yes-no" questions	(question particle for "yes-no" questions)
+太	tài	highest; greatest	highest; greatest; too (much)
+呢	ne	particle indicating that a previously…	particle indicating that a previously asked question is to be applied to the preceding word ("What about ...?", "And ...?"); particle for inquiring about location ("Where is ...?"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board ("ok?", "are you with me?")
+小	xiǎo	small; tiny	small; tiny; few
+时候	shí hou	time; length of time	time; length of time; moment
+工作	gōng zuò	to work; to operate	to work; (of a machine) to operate; job
+家	jiā	used in 家伙 and 家俱	used in 家伙 and 家俱
+怎么	zěn me	how?; what?	how?; what?; why?
+爱	ài	to love; to be fond of	to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)
+喜欢	xǐ huan	to like; to be fond of	to like; to be fond of
+吃	chī	to eat; to consume	to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy
+谁	shéi	who; also pr. [shuí]	who; also pr. [shuí]
+今天	jīn tiān	today; at the present	today; at the present; now
+月	yuè	moon; month	moon; month; monthly
+几	jǐ	how much; how many	how much; how many; several
+听	tīng	to listen to; to hear	to listen to; to hear; to heed; to obey; a can (loanword from English "tin")
+开	kāi	to open; to start	to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on; to put in operation; to operate; to run
+叫	jiào	to shout; to call	to shout; to call; to order
+请	qǐng	to ask; to invite	to ask; to invite; please (do sth)
+钱	Qián	surname Qian	surname Qian
+本	běn	root; stem	root; stem; origin
+回	huí	to circle; to go back	to circle; to go back; to turn around
+东西	dōng xī	east and west	east and west
+三	Sān	surname San	surname San
+买	mǎi	to buy; to purchase	to buy; to purchase
+岁	suì	years old	years old
+朋友	péng you	friend	friend
+住	zhù	to live; to dwell	to live; to dwell; to stay
+水	Shuǐ	surname Shui	surname Shui
+写	xiě	to write	to write
+日	Rì	abbr. for 本, Japan	abbr. for 本, Japan
+喝	hē	to drink	to drink
+学校	xué xiào	school	school
+坐	Zuò	surname Zuo	surname Zuo
+认识	rèn shi	to know; to recognize	to know; to recognize; to be familiar with
+分钟	fēn zhōng	minute	minute
+明天	míng tiān	tomorrow	tomorrow
+四	sì	four; 4	four; 4
+块	kuài	lump; chunk	lump; chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units
+谢谢	xiè xie	to thank; thanks	to thank; thanks; thank you
+多少	duō shǎo	number; amount	number; amount; somewhat
+妈妈	mā ma	mama; mommy	mama; mommy; mother
+少	shǎo	few; less	few; less; to lack
+电影	diàn yǐng	movie; film	movie; film
+哪	nǎ	how; which	how; which
+昨天	zuó tiān	yesterday	yesterday
+书	Shū	abbr. for 书经	abbr. for 书经
+五	wǔ	five; 5	five; 5
+先生	xiān sheng	teacher; gentleman	teacher; gentleman; sir; mister (Mr.); husband
+医院	yī yuàn	hospital	hospital
+些	xiē	classifier indicating a small amount…	classifier indicating a small amount or small number greater than 1: some, a few, several
+狗	gǒu	dog	dog
+学生	xué sheng	student; schoolchild	student; schoolchild
+二	èr	two; 2	two; 2; (Beijing dialect) stupid
+儿子	ér zi	son	son
+中国	Zhōng guó	China	China
+电视	diàn shì	television; TV	television; TV
+下午	xià wǔ	afternoon; p.m.	afternoon; p.m.
+学习	xué xí	to learn; to study	to learn; to study
+老师	lǎo shī	teacher	teacher
+六	liù	six; 6	six; 6
+医生	yī shēng	doctor	doctor
+名字	míng zi	name	name (of a person or thing)
+十	shí	ten; 10	ten; 10
+看见	kàn jiàn	to see; to catch sight of	to see; to catch sight of
+女儿	nǚ ér	daughter	daughter
+说话	shuō huà	to speak; to say	to speak; to say; to talk
+爸爸	bà ba	father; dad	(coll.) father; dad
+字	zì	letter; symbol	letter; symbol; character
+漂亮	piào liang	pretty; beautiful	pretty; beautiful
+高兴	gāo xìng	happy; glad	happy; glad; willing (to do sth)
+热	rè	to warm up; to heat up	to warm up; to heat up; hot (of weather)
+睡觉	shuì jiào	to go to bed; to sleep	to go to bed; to sleep
+电脑	diàn nǎo	computer	computer
+读	dú	to read out; to read aloud	to read out; to read aloud; to read; to attend (school); to study (a subject in school)
+冷	Lěng	surname Leng	surname Leng
+飞机	fēi jī	airplane	airplane
+猫	māo	cat; to hide oneself	cat; (dialect) to hide oneself; (coll.) modem
+打电话	dǎ diàn huà	to make a telephone call	to make a telephone call
+后面	hòu mian	the back; the rear	the back; the rear; the last bit; behind; near the end; at the back; later; afterwards
+喂	wèi	hey; to feed	hey; to feed (an animal, baby, invalid etc)
+八	bā	eight; 8	eight; 8
+怎么样	zěn me yàng	how?; how about?	how?; how about?; how was it?
+七	qī	seven; 7	seven; 7
+菜	cài	dish; vegetable	dish (type of food); vegetable; cuisine
+衣服	yī fu	clothes	clothes
+小姐	xiǎo jie	young lady; miss	young lady; miss; (slang) prostitute
+对不起	duì bu qǐ	I'm sorry; excuse me	I'm sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint
+天气	tiān qì	weather	weather
+前面	qián miàn	ahead; in front	ahead; in front; preceding
+同学	tóng xué	to study at the same school; fellow student	to study at the same school; fellow student; classmate
+茶	chá	tea; tea plant	tea; tea plant
+星期	xīng qī	week; day of the week	week; day of the week; Sunday
+九	jiǔ	nine; 9	nine; 9
+上午	shàng wǔ	morning	morning
+再见	zài jiàn	goodbye; see you again later	goodbye; see you again later
+苹果	píng guǒ	apple	apple
+中午	zhōng wǔ	noon; midday	noon; midday
+出租车	chū zū chē	taxi; rental car	taxi; (Tw) rental car
+水果	shuǐ guǒ	fruit	fruit
+商店	shāng diàn	store; shop	store; shop
+没关系	méi guān xi	it doesn't matter	it doesn't matter
+零	líng	zero; nought	zero; nought; zero sign
+桌子	zhuō zi	table; desk	table; desk
+椅子	yǐ zi	chair	chair
+北京	Běi jīng	Beijing, capital of the People's…	Beijing, capital of the People's Republic of China
+下雨	xià yǔ	to rain	to rain
+杯子	bēi zi	cup; glass	cup; glass
+火车站	huǒ chē zhàn	train station	train station
+米饭	mǐ fàn	rice	(cooked) rice
+汉语	Hàn yǔ	Chinese language	Chinese language
+饭馆	fàn guǎn	restaurant	restaurant
+不客气	bù kè qi	you're welcome; don't mention it	you're welcome; don't mention it; impolite

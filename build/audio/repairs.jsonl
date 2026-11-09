@@ -1,0 +1,8 @@
+{"key": "一起", "pack": "shared", "kind": "word", "ok": true, "method": "repair:iso", "err": 0.0, "file": "f2bf232cfcc477b5.mp3", "dur": 0.737, "secs": 9.41, "speaker": 5}
+{"key": "爸爸", "pack": "shared", "kind": "word", "ok": true, "method": "repair:carrier", "err": 0.0, "file": "c98f357e21f83820.mp3", "dur": 1.181, "secs": 12.06, "speaker": 5}
+{"key": "他好吗？", "pack": "h1u01", "kind": "word", "ok": true, "method": "repair:carrier", "err": 0.0, "file": "279c49e76490fdcc.mp3", "dur": 0.843, "secs": 2.68, "speaker": 3}
+{"key": "安娜", "pack": "h1u02", "kind": "word", "ok": true, "method": "repair:iso", "err": 0.0, "file": "0b56ecfd726ef0bd.mp3", "dur": 1.175, "secs": 6.02, "speaker": 4}
+{"key": "安娜多大", "pack": "h1u03", "kind": "word", "ok": true, "method": "isolated+v2", "err": 0.0, "file": "9be90d5abfa374ad.mp3", "dur": 1.085, "secs": 0.25}
+{"key": "安娜多大？", "pack": "h1u03", "kind": "word", "ok": true, "method": "repair:iso", "err": 0.0, "file": "ea496e955dbc91a1.mp3", "dur": 1.262, "secs": 18.54, "speaker": 8}
+{"key": "王先生是我的老师。", "pack": "h1u02", "kind": "sent", "ok": true, "method": "repair:@1.05", "err": 0.0, "file": "28f19d000ab7f65d.mp3", "dur": 1.84, "secs": 5.49, "speaker": 3}
+{"key": "星期", "ok": false, "tried": true, "err": 0.5, "secs": 31.61}

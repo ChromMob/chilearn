@@ -1,0 +1,3003 @@
+{
+ "level": 2,
+ "units": [
+  {
+   "id": "h2u01",
+   "title": "Family and introductions",
+   "titleZh": "介绍家人",
+   "goal": "Introduce your family, ask someone's surname politely and welcome guests.",
+   "words": [
+    "也",
+    "两",
+    "您",
+    "姓",
+    "贵",
+    "哥哥",
+    "姐姐",
+    "弟弟",
+    "妹妹",
+    "丈夫",
+    "妻子",
+    "孩子",
+    "介绍",
+    "欢迎",
+    "大家"
+   ],
+   "glosses": {
+    "也": "also; too",
+    "两": "two (before measure words)",
+    "您": "you (polite)",
+    "姓": "to be surnamed; surname",
+    "贵": "expensive; honorable",
+    "哥哥": "older brother",
+    "姐姐": "older sister",
+    "弟弟": "younger brother",
+    "妹妹": "younger sister",
+    "丈夫": "husband",
+    "妻子": "wife",
+    "孩子": "child; kid",
+    "介绍": "to introduce",
+    "欢迎": "to welcome",
+    "大家": "everyone"
+   },
+   "pinyin": {
+    "也": "yě",
+    "妻子": "qī zi"
+   },
+   "extra": {
+    "王": "Wang (a surname)",
+    "李": "Li (a surname)",
+    "王明": "Wang Ming (a name)",
+    "李月": "Li Yue (a name)",
+    "安娜": "Anna (a name)",
+    "口": "(measure word for family members)"
+   },
+   "grammar": [
+    {
+     "title": "也: also",
+     "pattern": "Subject + 也 + Verb / Adjective",
+     "explain": "也 means 'also / too'. It always goes after the subject and before the verb — never at the start or the end of the sentence like English 'too'. 也不 / 也没 means 'not … either'.",
+     "examples": [
+      {
+       "zh": "我 也 是 学生 。",
+       "en": "I'm a student too."
+      },
+      {
+       "zh": "我 哥哥 也 是 医生 。",
+       "en": "My older brother is also a doctor."
+      },
+      {
+       "zh": "我 也 不 认识 他 。",
+       "en": "I don't know him either."
+      }
+     ]
+    },
+    {
+     "title": "两 or 二?",
+     "pattern": "两 + Measure word + Noun",
+     "explain": "Before a measure word, 'two' is 两, not 二: 两个人, 两点. 二 is used when counting, in longer numbers like 十二 and 二十, and in dates.",
+     "examples": [
+      {
+       "zh": "我 有 两 个 姐姐 。",
+       "en": "I have two older sisters."
+      },
+      {
+       "zh": "他 有 两 个 孩子 。",
+       "en": "He has two children."
+      },
+      {
+       "zh": "现在 两 点 。",
+       "en": "It's two o'clock."
+      }
+     ]
+    },
+    {
+     "title": "Asking a surname politely",
+     "pattern": "您 贵 姓 ？ — 我 姓 + Surname",
+     "explain": "您 is the polite form of 你, used with older people, customers and people you respect. 您贵姓 ('your honorable surname?') is the polite way to ask someone's family name. Answer with 我姓…, not 我贵姓. 姓 gives only the family name; 叫 gives the full name.",
+     "examples": [
+      {
+       "zh": "您 贵 姓 ？ — 我 姓 李 。",
+       "en": "May I ask your surname? — My surname is Li."
+      },
+      {
+       "zh": "我 姓 王 ， 叫 王明 。",
+       "en": "My surname is Wang, and my name is Wang Ming."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "我 也 是 学生 。",
+     "en": "I'm a student too.",
+     "focus": "也"
+    },
+    {
+     "zh": "我 有 两 个 哥哥 。",
+     "en": "I have two older brothers.",
+     "focus": "两"
+    },
+    {
+     "zh": "您 贵 姓 ？",
+     "en": "May I ask your surname?",
+     "focus": "贵"
+    },
+    {
+     "zh": "我 姓 王 ， 叫 王明 。",
+     "en": "My surname is Wang; my name is Wang Ming.",
+     "focus": "姓"
+    },
+    {
+     "zh": "我 姓 李 ， 不 姓 王 。",
+     "en": "My surname is Li, not Wang."
+    },
+    {
+     "zh": "您 是 王 老师 吗 ？",
+     "en": "Are you Teacher Wang?",
+     "focus": "您"
+    },
+    {
+     "zh": "我 来 介绍 一下 ， 这 是 我 妻子 。",
+     "en": "Let me introduce you — this is my wife.",
+     "focus": "介绍"
+    },
+    {
+     "zh": "这 是 我 丈夫 。",
+     "en": "This is my husband.",
+     "focus": "丈夫"
+    },
+    {
+     "zh": "他 妻子 也 是 老师 。",
+     "en": "His wife is also a teacher.",
+     "focus": "妻子"
+    },
+    {
+     "zh": "欢迎 你 来 我 家 ！",
+     "en": "Welcome to my home!",
+     "focus": "欢迎"
+    },
+    {
+     "zh": "大家 好 ， 我 叫 王明 。",
+     "en": "Hi everyone, I'm Wang Ming.",
+     "focus": "大家"
+    },
+    {
+     "zh": "欢迎 大家 来 北京 ！",
+     "en": "Welcome to Beijing, everyone!"
+    },
+    {
+     "zh": "我 姐姐 有 两 个 孩子 。",
+     "en": "My older sister has two children.",
+     "focus": "姐姐"
+    },
+    {
+     "zh": "那 个 孩子 是 谁 ？",
+     "en": "Who is that child?",
+     "focus": "孩子"
+    },
+    {
+     "zh": "你 有 弟弟 吗 ？",
+     "en": "Do you have a younger brother?",
+     "focus": "弟弟"
+    },
+    {
+     "zh": "我 没 有 弟弟 ， 也 没 有 妹妹 。",
+     "en": "I don't have a younger brother or a younger sister.",
+     "focus": "妹妹"
+    },
+    {
+     "zh": "我 哥哥 是 医生 ， 我 也 是 医生 。",
+     "en": "My older brother is a doctor, and so am I.",
+     "focus": "哥哥"
+    },
+    {
+     "zh": "我 妹妹 八 岁 ， 弟弟 五 岁 。",
+     "en": "My younger sister is eight and my younger brother is five."
+    }
+   ],
+   "dialogue": {
+    "title": "Meeting the family",
+    "lines": [
+     {
+      "who": "王明",
+      "zh": "安娜 ， 欢迎 你 来 我 家 ！",
+      "en": "Anna, welcome to our home!"
+     },
+     {
+      "who": "安娜",
+      "zh": "谢谢 ！",
+      "en": "Thank you!"
+     },
+     {
+      "who": "王明",
+      "zh": "我 来 介绍 一下 ， 这 是 我 妻子 李月 。",
+      "en": "Let me introduce you — this is my wife, Li Yue."
+     },
+     {
+      "who": "安娜",
+      "zh": "你 好 ！ 认识 你 很 高兴 。",
+      "en": "Hello! Nice to meet you."
+     },
+     {
+      "who": "李月",
+      "zh": "认识 你 我 也 很 高兴 。",
+      "en": "Nice to meet you too."
+     },
+     {
+      "who": "安娜",
+      "zh": "那 两 个 孩子 是 谁 ？",
+      "en": "Who are those two children?"
+     },
+     {
+      "who": "王明",
+      "zh": "是 我们 的 儿子 和 女儿 。",
+      "en": "They are our son and daughter."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Who is Li Yue?",
+      "options": [
+       "Wang Ming's sister",
+       "Wang Ming's wife",
+       "Anna's teacher"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Who are the two children?",
+      "options": [
+       "Wang Ming's son and daughter",
+       "Anna's brothers",
+       "Li Yue's students"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "reading": {
+    "title": "我的家",
+    "zh": "我姓王，叫王明。我家有五口人：爸爸、妈妈、哥哥、妹妹和我。爸爸是医生，妈妈是老师。哥哥二十八岁，他也是医生。哥哥有妻子，也有两个孩子。妹妹十六岁，是学生。我爱我的家！",
+    "en": "My surname is Wang and my name is Wang Ming. There are five people in my family: Dad, Mom, my older brother, my younger sister and me. Dad is a doctor and Mom is a teacher. My older brother is twenty-eight; he is a doctor too. He has a wife and two children. My younger sister is sixteen; she is a student. I love my family!",
+    "questions": [
+     {
+      "q": "What does Wang Ming's father do?",
+      "options": [
+       "He is a teacher",
+       "He is a doctor",
+       "He is a student"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How many children does Wang Ming's older brother have?",
+      "options": [
+       "One",
+       "Two",
+       "Three"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How old is Wang Ming's younger sister?",
+      "options": [
+       "16",
+       "18",
+       "28"
+      ],
+      "answer": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u02",
+   "title": "My daily routine",
+   "titleZh": "我的一天",
+   "goal": "Describe your daily routine, say how long things take and whether you are busy or tired.",
+   "words": [
+    "早上",
+    "晚上",
+    "起床",
+    "上班",
+    "每",
+    "小时",
+    "时间",
+    "洗",
+    "休息",
+    "忙",
+    "累",
+    "要",
+    "开始",
+    "再",
+    "走",
+    "就"
+   ],
+   "glosses": {
+    "早上": "(early) morning",
+    "晚上": "evening; night",
+    "起床": "to get up",
+    "上班": "to go to work; to start work",
+    "每": "every; each",
+    "小时": "hour",
+    "时间": "time",
+    "洗": "to wash",
+    "休息": "to rest; to take a break",
+    "忙": "busy",
+    "累": "tired",
+    "要": "to want; to need; will",
+    "开始": "to begin; to start",
+    "再": "again",
+    "走": "to walk; to leave",
+    "就": "already; right away; then"
+   },
+   "extra": {
+    "天": "day",
+    "饭": "meal; food",
+    "才": "not until; only then"
+   },
+   "grammar": [
+    {
+     "title": "要: want to / going to",
+     "pattern": "Subject + 要 + Verb",
+     "explain": "要 before a verb means 'want to' (stronger than 想), or 'need to / be going to'. To say you don't want to, use 不想; 不要 usually means 'don't!'.",
+     "examples": [
+      {
+       "zh": "我 明天 要 上班 。",
+       "en": "I have to work tomorrow."
+      },
+      {
+       "zh": "你 要 喝 茶 吗 ？",
+       "en": "Would you like some tea?"
+      },
+      {
+       "zh": "我 要 去 北京 。",
+       "en": "I'm going to Beijing."
+      }
+     ]
+    },
+    {
+     "title": "每…都: every",
+     "pattern": "每 + (Measure word) + Noun + 都 + Verb",
+     "explain": "每 means 'every'. It is usually followed by 都 before the verb. 每天 ('every day') needs no measure word, but most nouns do: 每个人, 每个星期.",
+     "examples": [
+      {
+       "zh": "我 每天 都 七 点 起床 。",
+       "en": "I get up at seven every day."
+      },
+      {
+       "zh": "每 个 人 都 很 忙 。",
+       "en": "Everyone is busy."
+      }
+     ]
+    },
+    {
+     "title": "就 and 才: early or late",
+     "pattern": "Time + 就 + Verb + 了　/　Time + 才 + Verb",
+     "explain": "就 after a time word shows that something happens early or quickly, and the sentence often ends in 了. 才 shows that it happens late — later than expected — and is not used with 了.",
+     "examples": [
+      {
+       "zh": "他 六 点 就 起床 了 。",
+       "en": "He was up as early as six."
+      },
+      {
+       "zh": "他 十 点 才 起床 。",
+       "en": "He didn't get up until ten."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "我 每天 早上 七 点 起床 。",
+     "en": "I get up at seven every morning.",
+     "alt": [
+      "每天 早上 我 七 点 起床 。"
+     ],
+     "focus": "起床"
+    },
+    {
+     "zh": "你 几 点 上班 ？",
+     "en": "What time do you start work?",
+     "focus": "上班"
+    },
+    {
+     "zh": "我 明天 要 上班 。",
+     "en": "I have to work tomorrow.",
+     "alt": [
+      "明天 我 要 上班 。"
+     ],
+     "focus": "要"
+    },
+    {
+     "zh": "你 要 喝 茶 吗 ？",
+     "en": "Would you like some tea?"
+    },
+    {
+     "zh": "我 每天 工作 八 个 小时 。",
+     "en": "I work eight hours a day.",
+     "focus": "小时"
+    },
+    {
+     "zh": "每 个 星期 我 工作 五 天 。",
+     "en": "I work five days a week.",
+     "alt": [
+      "我 每 个 星期 工作 五 天 。"
+     ],
+     "focus": "每"
+    },
+    {
+     "zh": "我 今天 很 忙 ， 没 有 时间 。",
+     "en": "I'm busy today; I don't have time.",
+     "alt": [
+      "今天 我 很 忙 ， 没 有 时间 。"
+     ],
+     "focus": "时间"
+    },
+    {
+     "zh": "你 现在 忙 吗 ？",
+     "en": "Are you busy right now?",
+     "focus": "忙"
+    },
+    {
+     "zh": "我 太 累 了 ， 想 休息 一下 。",
+     "en": "I'm so tired, I want to rest for a bit.",
+     "focus": "累"
+    },
+    {
+     "zh": "星期日 我 在 家 休息 。",
+     "en": "On Sundays I rest at home.",
+     "alt": [
+      "我 星期日 在 家 休息 。"
+     ],
+     "focus": "休息"
+    },
+    {
+     "zh": "晚上 我 洗 衣服 。",
+     "en": "I do the laundry in the evening.",
+     "alt": [
+      "我 晚上 洗 衣服 。"
+     ],
+     "focus": "洗"
+    },
+    {
+     "zh": "我 九 点 开始 工作 。",
+     "en": "I start work at nine.",
+     "focus": "开始"
+    },
+    {
+     "zh": "他 六 点 就 起床 了 。",
+     "en": "He was up as early as six.",
+     "focus": "就"
+    },
+    {
+     "zh": "他 十 点 才 起床 。",
+     "en": "He didn't get up until ten."
+    },
+    {
+     "zh": "我 要 走 了 ， 再见 ！",
+     "en": "I have to go now. Bye!",
+     "focus": "走"
+    },
+    {
+     "zh": "请 你 明天 再 来 。",
+     "en": "Please come again tomorrow.",
+     "focus": "再"
+    },
+    {
+     "zh": "我 晚上 十一 点 睡觉 。",
+     "en": "I go to bed at eleven at night.",
+     "focus": "晚上"
+    },
+    {
+     "zh": "我们 七 点 吃 饭 。",
+     "en": "We eat at seven."
+    },
+    {
+     "zh": "早上 我 喝 茶 。",
+     "en": "I drink tea in the morning.",
+     "alt": [
+      "我 早上 喝 茶 。"
+     ],
+     "focus": "早上"
+    }
+   ],
+   "dialogue": {
+    "title": "A busy day",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "你 每天 几 点 起床 ？",
+      "en": "What time do you get up every day?"
+     },
+     {
+      "who": "B",
+      "zh": "我 每天 六 点 就 起床 了 。",
+      "en": "I'm up by six every day."
+     },
+     {
+      "who": "A",
+      "zh": "我 九 点 才 起床 。 你 几 点 上班 ？",
+      "en": "I don't get up until nine. What time do you start work?"
+     },
+     {
+      "who": "B",
+      "zh": "八 点 。 我 每天 工作 九 个 小时 。",
+      "en": "At eight. I work nine hours a day."
+     },
+     {
+      "who": "A",
+      "zh": "你 太 忙 了 ！ 累 吗 ？",
+      "en": "You're so busy! Are you tired?"
+     },
+     {
+      "who": "B",
+      "zh": "很 累 。 星期六 我 要 好好 休息 。",
+      "en": "Very. On Saturday I'm going to have a good rest."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What time does B get up?",
+      "options": [
+       "6:00",
+       "8:00",
+       "9:00"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "How many hours does B work a day?",
+      "options": [
+       "Eight",
+       "Nine",
+       "Ten"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What will B do on Saturday?",
+      "options": [
+       "Work",
+       "Have a good rest",
+       "Get up early"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "reading": {
+    "title": "我的一天",
+    "zh": "我每天早上六点起床，七点吃饭，八点上班。我是医生，在医院工作。我每天工作九个小时，很忙，也很累。晚上七点我回家，看一个小时电视，十一点就睡觉了。星期六和星期日我不上班，在家休息。",
+    "en": "I get up at six every morning, eat at seven and start work at eight. I'm a doctor and work at a hospital. I work nine hours a day; I'm very busy and also very tired. I come home at seven in the evening, watch TV for an hour, and I'm in bed by eleven. On Saturdays and Sundays I don't work; I rest at home.",
+    "questions": [
+     {
+      "q": "What is the writer's job?",
+      "options": [
+       "Teacher",
+       "Doctor",
+       "Student"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What does the writer do in the evening?",
+      "options": [
+       "Washes clothes",
+       "Watches TV",
+       "Goes to work"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "When does the writer rest at home?",
+      "options": [
+       "Every evening",
+       "At the weekend",
+       "On Mondays"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u03",
+   "title": "Shopping for clothes",
+   "titleZh": "买衣服",
+   "goal": "Buy clothes, talk about colors and prices, bargain and ask for permission.",
+   "words": [
+    "卖",
+    "便宜",
+    "元",
+    "百",
+    "千",
+    "件",
+    "张",
+    "新",
+    "可以",
+    "吧",
+    "颜色",
+    "红",
+    "白",
+    "黑",
+    "穿"
+   ],
+   "glosses": {
+    "卖": "to sell",
+    "便宜": "cheap",
+    "元": "yuan (Chinese currency)",
+    "百": "hundred",
+    "千": "thousand",
+    "件": "(measure word for clothes)",
+    "张": "(measure word for flat things)",
+    "新": "new",
+    "可以": "can; may",
+    "吧": "(particle: let's; OK?)",
+    "颜色": "color",
+    "红": "red",
+    "白": "white",
+    "黑": "black",
+    "穿": "to wear; to put on"
+   },
+   "pinyin": {
+    "元": "yuán",
+    "百": "bǎi",
+    "张": "zhāng",
+    "新": "xīn",
+    "红": "hóng",
+    "白": "bái",
+    "黑": "hēi"
+   },
+   "extra": {
+    "说": "to say; to speak"
+   },
+   "grammar": [
+    {
+     "title": "可以: may / can",
+     "pattern": "Subject + 可以 + Verb (+ 吗)",
+     "explain": "可以 asks for or gives permission: 'may I…?', 'you can…'. A short 'yes' answer is just 可以.",
+     "examples": [
+      {
+       "zh": "我 可以 看看 吗 ？",
+       "en": "May I have a look?"
+      },
+      {
+       "zh": "可以 ， 你 看 吧 。",
+       "en": "Sure, go ahead."
+      },
+      {
+       "zh": "你 可以 坐 这里 。",
+       "en": "You can sit here."
+      }
+     ]
+    },
+    {
+     "title": "吧: suggestions and checking",
+     "pattern": "Sentence + 吧",
+     "explain": "吧 at the end of a sentence makes it softer. It can make a suggestion ('let's…'), a gentle request, or check something you think is true ('…, right?').",
+     "examples": [
+      {
+       "zh": "我们 去 商店 吧 。",
+       "en": "Let's go to the shop."
+      },
+      {
+       "zh": "你 穿 这 件 吧 。",
+       "en": "Wear this one."
+      },
+      {
+       "zh": "这 件 很 贵 吧 ？",
+       "en": "This one's expensive, isn't it?"
+      }
+     ]
+    },
+    {
+     "title": "件, 张 and \"the red one\"",
+     "pattern": "这 件 + Noun　/　Adjective + 的",
+     "explain": "件 is the measure word for clothes (and for matters); 张 is for flat things such as tables, tickets and paper. An adjective + 的 can stand for the thing itself: 红的 'the red one'.",
+     "examples": [
+      {
+       "zh": "我 想 买 一 件 衣服 。",
+       "en": "I want to buy a piece of clothing."
+      },
+      {
+       "zh": "我 要 红 的 ， 不 要 白 的 。",
+       "en": "I want the red one, not the white one."
+      },
+      {
+       "zh": "这 张 桌子 很 便宜 。",
+       "en": "This table is cheap."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "这 件 衣服 多少 钱 ？",
+     "en": "How much is this top?",
+     "focus": "件"
+    },
+    {
+     "zh": "两 百 块 。",
+     "en": "Two hundred kuai.",
+     "focus": "百"
+    },
+    {
+     "zh": "太 贵 了 ， 便宜 一点 吧 。",
+     "en": "That's too expensive — can you make it a bit cheaper?",
+     "focus": "便宜"
+    },
+    {
+     "zh": "我 可以 穿 一下 吗 ？",
+     "en": "Can I try it on?",
+     "focus": "可以"
+    },
+    {
+     "zh": "你 穿 这 件 吧 ， 很 漂亮 。",
+     "en": "Wear this one, it looks great.",
+     "focus": "吧"
+    },
+    {
+     "zh": "你 喜欢 什么 颜色 ？",
+     "en": "What color do you like?",
+     "focus": "颜色"
+    },
+    {
+     "zh": "我 喜欢 红 的 。",
+     "en": "I like the red one.",
+     "focus": "红"
+    },
+    {
+     "zh": "白 的 太 小 了 。",
+     "en": "The white one is too small.",
+     "focus": "白"
+    },
+    {
+     "zh": "他 喜欢 穿 黑 衣服 。",
+     "en": "He likes wearing black clothes.",
+     "focus": "黑"
+    },
+    {
+     "zh": "你 穿 红 的 很 漂亮 。",
+     "en": "You look pretty in red.",
+     "focus": "穿"
+    },
+    {
+     "zh": "这 是 新 衣服 吗 ？",
+     "en": "Are these new clothes?",
+     "focus": "新"
+    },
+    {
+     "zh": "这 个 商店 卖 水果 吗 ？",
+     "en": "Does this shop sell fruit?",
+     "focus": "卖"
+    },
+    {
+     "zh": "这 张 桌子 三 千 元 。",
+     "en": "This table is 3,000 yuan.",
+     "focus": "张"
+    },
+    {
+     "zh": "这 本 书 二十 元 。",
+     "en": "This book is 20 yuan.",
+     "focus": "元"
+    },
+    {
+     "zh": "一 千 块 太 贵 了 ！",
+     "en": "A thousand kuai is too expensive!",
+     "focus": "千"
+    },
+    {
+     "zh": "我 想 买 一 张 新 桌子 。",
+     "en": "I want to buy a new table."
+    },
+    {
+     "zh": "我们 去 商店 看看 吧 。",
+     "en": "Let's go and have a look in the shop."
+    },
+    {
+     "zh": "这些 衣服 都 很 便宜 。",
+     "en": "These clothes are all cheap."
+    },
+    {
+     "zh": "白 的 可以 吗 ？",
+     "en": "Is the white one OK?"
+    }
+   ],
+   "dialogue": {
+    "title": "Bargaining",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "你 好 ， 这 件 衣服 多少 钱 ？",
+      "en": "Hi, how much is this top?"
+     },
+     {
+      "who": "B",
+      "zh": "三 百 块 。",
+      "en": "Three hundred kuai."
+     },
+     {
+      "who": "A",
+      "zh": "太 贵 了 ！ 便宜 一点 吧 。",
+      "en": "That's too expensive! Make it a bit cheaper."
+     },
+     {
+      "who": "B",
+      "zh": "两 百 八 ， 可以 吗 ？",
+      "en": "Two hundred and eighty, OK?"
+     },
+     {
+      "who": "A",
+      "zh": "好 。 有 黑 的 吗 ？",
+      "en": "OK. Do you have a black one?"
+     },
+     {
+      "who": "B",
+      "zh": "有 。 你 可以 穿 一下 。",
+      "en": "Yes. You can try it on."
+     },
+     {
+      "who": "A",
+      "zh": "很 好 ， 我 要 了 。",
+      "en": "Great, I'll take it."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What was the first price?",
+      "options": [
+       "200 kuai",
+       "280 kuai",
+       "300 kuai"
+      ],
+      "answer": 2
+     },
+     {
+      "q": "What color does A ask for?",
+      "options": [
+       "Red",
+       "White",
+       "Black"
+      ],
+      "answer": 2
+     },
+     {
+      "q": "What price do they agree on?",
+      "options": [
+       "260 kuai",
+       "280 kuai",
+       "300 kuai"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "reading": {
+    "title": "买衣服",
+    "zh": "今天是星期六，我和妈妈去商店买衣服。商店里有很多新衣服，有红的、白的，也有黑的。我很喜欢一件红的，八百块，太贵了。妈妈说：“你看看这件白的吧，很便宜，两百块。”我穿了一下，很漂亮。我们买了那件白的。",
+    "en": "Today is Saturday. Mom and I went to the shops to buy clothes. The shop had lots of new clothes — red ones, white ones and black ones too. I really liked a red one, but it was 800 kuai — too expensive. Mom said, \"Have a look at this white one. It's cheap — two hundred kuai.\" I tried it on and it looked great. We bought the white one.",
+    "questions": [
+     {
+      "q": "What day is it?",
+      "options": [
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How much is the red one?",
+      "options": [
+       "200 kuai",
+       "800 kuai",
+       "1,000 kuai"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Which one do they buy?",
+      "options": [
+       "The red one",
+       "The white one",
+       "The black one"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u04",
+   "title": "At a restaurant",
+   "titleZh": "在饭馆",
+   "goal": "Order food and drinks, offer choices, and say what you like best.",
+   "words": [
+    "服务员",
+    "鱼",
+    "羊肉",
+    "鸡蛋",
+    "牛奶",
+    "咖啡",
+    "西瓜",
+    "好吃",
+    "给",
+    "还",
+    "真",
+    "最",
+    "完",
+    "一起",
+    "公斤"
+   ],
+   "glosses": {
+    "服务员": "waiter; waitress",
+    "鱼": "fish",
+    "羊肉": "lamb; mutton",
+    "鸡蛋": "(chicken) egg",
+    "牛奶": "milk",
+    "咖啡": "coffee",
+    "西瓜": "watermelon",
+    "好吃": "tasty; delicious",
+    "给": "to give; for; to",
+    "还": "still; also; else",
+    "真": "really; truly",
+    "最": "most; -est",
+    "完": "to finish; done",
+    "一起": "together",
+    "公斤": "kilogram"
+   },
+   "pinyin": {
+    "鱼": "yú"
+   },
+   "extra": {
+    "杯": "cup of; glass of (measure word)",
+    "饭": "meal; food",
+    "或者": "or (in statements)",
+    "李月": "Li Yue (a name)"
+   },
+   "grammar": [
+    {
+     "title": "还是 or 或者?",
+     "pattern": "A 还是 B ？　/　A 或者 B",
+     "explain": "Chinese has two words for 'or'. In a question that offers a choice, use 还是: 茶还是咖啡？ In a statement, use 或者: 茶或者咖啡都可以 'tea or coffee, either is fine'.",
+     "examples": [
+      {
+       "zh": "你 喝 茶 还是 喝 咖啡 ？",
+       "en": "Would you like tea or coffee?"
+      },
+      {
+       "zh": "你 要 鱼 还是 羊肉 ？",
+       "en": "Would you like fish or lamb?"
+      },
+      {
+       "zh": "茶 或者 咖啡 都 可以 。",
+       "en": "Tea or coffee — either is fine."
+      }
+     ]
+    },
+    {
+     "title": "给: give / for someone",
+     "pattern": "给 + Person + Thing　/　给 + Person + Verb",
+     "explain": "As a verb, 给 means 'give': first the person, then the thing. Before another verb, 给 + person means 'for someone': 他给我买了… 'he bought … for me'.",
+     "examples": [
+      {
+       "zh": "请 给 我 一 杯 咖啡 。",
+       "en": "A cup of coffee, please."
+      },
+      {
+       "zh": "他 给 我 买 了 一 个 西瓜 。",
+       "en": "He bought me a watermelon."
+      },
+      {
+       "zh": "妈妈 给 我 做 饭 。",
+       "en": "Mom cooks for me."
+      }
+     ]
+    },
+    {
+     "title": "Verb + 完: finish doing",
+     "pattern": "Verb + 完 + (Object) + 了　/　没 + Verb + 完",
+     "explain": "完 after a verb shows that the action is finished: 吃完 'finish eating'. Use 没 (often with 还 'still') to say it is not finished yet.",
+     "examples": [
+      {
+       "zh": "我 吃 完 了 。",
+       "en": "I've finished eating."
+      },
+      {
+       "zh": "你 喝 完 咖啡 了 吗 ？",
+       "en": "Have you finished your coffee?"
+      },
+      {
+       "zh": "我 还 没 吃 完 。",
+       "en": "I haven't finished eating yet."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "服务员 ， 请 给 我 一 杯 咖啡 。",
+     "en": "Waiter, a coffee please.",
+     "focus": "给"
+    },
+    {
+     "zh": "服务员 ， 再 来 一 杯 茶 ！",
+     "en": "Waiter, another cup of tea please!",
+     "focus": "服务员"
+    },
+    {
+     "zh": "你 喝 茶 还是 喝 咖啡 ？",
+     "en": "Would you like tea or coffee?",
+     "focus": "还是"
+    },
+    {
+     "zh": "茶 或者 咖啡 都 可以 。",
+     "en": "Tea or coffee — either is fine."
+    },
+    {
+     "zh": "我 喝 牛奶 。",
+     "en": "I'll have milk.",
+     "focus": "牛奶"
+    },
+    {
+     "zh": "你 要 鱼 还是 羊肉 ？",
+     "en": "Would you like fish or lamb?",
+     "focus": "鱼"
+    },
+    {
+     "zh": "这里 的 鱼 真 好吃 ！",
+     "en": "The fish here is really delicious!",
+     "focus": "真"
+    },
+    {
+     "zh": "我 最 喜欢 吃 羊肉 。",
+     "en": "I like lamb best.",
+     "focus": "最"
+    },
+    {
+     "zh": "这 家 饭馆 的 菜 最 好吃 。",
+     "en": "This restaurant has the best food.",
+     "focus": "好吃"
+    },
+    {
+     "zh": "我们 一起 吃 饭 吧 。",
+     "en": "Let's eat together.",
+     "focus": "一起"
+    },
+    {
+     "zh": "我们 一起 去 喝 咖啡 ， 怎么样 ？",
+     "en": "How about we go for a coffee together?",
+     "focus": "咖啡"
+    },
+    {
+     "zh": "我 吃 完 了 。",
+     "en": "I've finished eating.",
+     "focus": "完"
+    },
+    {
+     "zh": "我 还 没 吃 完 。",
+     "en": "I haven't finished eating yet."
+    },
+    {
+     "zh": "你 喝 完 咖啡 了 吗 ？",
+     "en": "Have you finished your coffee?"
+    },
+    {
+     "zh": "你 还 想 吃 什么 ？",
+     "en": "What else would you like to eat?",
+     "focus": "还"
+    },
+    {
+     "zh": "我 早上 吃 两 个 鸡蛋 。",
+     "en": "I have two eggs in the morning.",
+     "alt": [
+      "早上 我 吃 两 个 鸡蛋 。"
+     ],
+     "focus": "鸡蛋"
+    },
+    {
+     "zh": "他 给 我 买 了 一 个 西瓜 。",
+     "en": "He bought me a watermelon.",
+     "focus": "西瓜"
+    },
+    {
+     "zh": "西瓜 多少 钱 一 公斤 ？",
+     "en": "How much is the watermelon per kilo?",
+     "focus": "公斤"
+    },
+    {
+     "zh": "鸡蛋 和 牛奶 都 很 便宜 。",
+     "en": "Eggs and milk are both cheap."
+    }
+   ],
+   "dialogue": {
+    "title": "Ordering food",
+    "lines": [
+     {
+      "who": "服务员",
+      "zh": "您 好 ！ 您 想 吃 什么 ？",
+      "en": "Hello! What would you like to eat?"
+     },
+     {
+      "who": "李月",
+      "zh": "这里 什么 菜 最 好吃 ？",
+      "en": "What's the best dish here?"
+     },
+     {
+      "who": "服务员",
+      "zh": "鱼 和 羊肉 都 很 好吃 。",
+      "en": "The fish and the lamb are both very good."
+     },
+     {
+      "who": "李月",
+      "zh": "我 要 羊肉 和 米饭 。",
+      "en": "I'll have the lamb and rice."
+     },
+     {
+      "who": "服务员",
+      "zh": "您 喝 茶 还是 喝 咖啡 ？",
+      "en": "Would you like tea or coffee?"
+     },
+     {
+      "who": "李月",
+      "zh": "给 我 一 杯 咖啡 吧 。",
+      "en": "I'll have a coffee, please."
+     },
+     {
+      "who": "服务员",
+      "zh": "好 的 。",
+      "en": "Certainly."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What does Li Yue order to eat?",
+      "options": [
+       "Fish and rice",
+       "Lamb and rice",
+       "Eggs"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What does she want to drink?",
+      "options": [
+       "Tea",
+       "Milk",
+       "Coffee"
+      ],
+      "answer": 2
+     }
+    ]
+   },
+   "reading": {
+    "title": "我们的饭馆",
+    "zh": "我和朋友最喜欢去学校后面的一家饭馆。那里的菜很好吃，也很便宜。我最喜欢那里的鱼，我朋友最喜欢羊肉。吃完饭，我们还一起喝一杯咖啡。那里的服务员都很好。我们每个星期都去那里吃饭。",
+    "en": "My friend and I love going to a restaurant behind our school. The food there is delicious and cheap too. I like their fish best, and my friend likes the lamb best. After eating, we have a coffee together. The waiters there are all very nice. We go there to eat every week.",
+    "questions": [
+     {
+      "q": "Where is the restaurant?",
+      "options": [
+       "Behind the school",
+       "Next to the hospital",
+       "At the train station"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "What does the writer like best there?",
+      "options": [
+       "Lamb",
+       "Fish",
+       "Watermelon"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What do they do after eating?",
+      "options": [
+       "Drink tea",
+       "Have a coffee together",
+       "Go home"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u05",
+   "title": "Asking for directions",
+   "titleZh": "怎么走",
+   "goal": "Ask and give directions, and say how far places are from each other.",
+   "words": [
+    "离",
+    "远",
+    "近",
+    "旁边",
+    "左边",
+    "右边",
+    "路",
+    "向",
+    "从",
+    "到",
+    "进",
+    "出",
+    "门",
+    "外",
+    "房间"
+   ],
+   "glosses": {
+    "离": "(distance) from",
+    "远": "far",
+    "近": "near; close",
+    "旁边": "next to; beside",
+    "左边": "left side",
+    "右边": "right side",
+    "路": "road; way",
+    "向": "towards",
+    "从": "from",
+    "到": "to arrive; to (a place)",
+    "进": "to enter; to come in",
+    "出": "to go out; to come out",
+    "门": "door; gate",
+    "外": "outside",
+    "房间": "room"
+   },
+   "pinyin": {
+    "离": "lí",
+    "路": "lù",
+    "向": "xiàng",
+    "门": "mén"
+   },
+   "extra": {
+    "外面": "outside",
+    "天": "day",
+    "大卫": "David (a name)"
+   },
+   "grammar": [
+    {
+     "title": "离: how far from",
+     "pattern": "A + 离 + B + 远 / 近",
+     "explain": "离 tells you the distance between two places. Put the place you're talking about first, then 离 + the other place, then 远 (far) or 近 (near).",
+     "examples": [
+      {
+       "zh": "学校 离 我 家 很 近 。",
+       "en": "The school is close to my home."
+      },
+      {
+       "zh": "火车站 离 这里 远 吗 ？",
+       "en": "Is the train station far from here?"
+      }
+     ]
+    },
+    {
+     "title": "从…到…: from … to …",
+     "pattern": "从 + A + 到 + B",
+     "explain": "从 means 'from' and 到 means 'to'. Together they mark a starting point and an end point, in space or in time. 到 can also be a verb: 'to arrive'.",
+     "examples": [
+      {
+       "zh": "从 我 家 到 学校 很 近 。",
+       "en": "It's not far from my home to school."
+      },
+      {
+       "zh": "我 从 九 点 到 五 点 上班 。",
+       "en": "I work from nine to five."
+      }
+     ]
+    },
+    {
+     "title": "Directions: 向 and 进来 / 出去",
+     "pattern": "向 + Direction + 走　/　Verb + 来 / 去",
+     "explain": "向 + a direction tells someone which way to go: 向左边走 'go left'. 来 and 去 after a verb show direction: 来 is towards the speaker, 去 is away. 进来 'come in', 出去 'go out'.",
+     "examples": [
+      {
+       "zh": "你 向 左边 走 。",
+       "en": "Go left."
+      },
+      {
+       "zh": "请 进 来 ！",
+       "en": "Please come in!"
+      },
+      {
+       "zh": "我们 出 去 走走 吧 。",
+       "en": "Let's go out for a walk."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "火车站 离 这里 远 吗 ？",
+     "en": "Is the train station far from here?",
+     "focus": "离"
+    },
+    {
+     "zh": "不 远 ， 很 近 。",
+     "en": "Not far, it's very close.",
+     "focus": "近"
+    },
+    {
+     "zh": "医院 离 我 家 很 远 。",
+     "en": "The hospital is far from my home.",
+     "focus": "远"
+    },
+    {
+     "zh": "从 这里 到 火车站 怎么 走 ？",
+     "en": "How do I get from here to the train station?",
+     "focus": "从"
+    },
+    {
+     "zh": "你 向 左边 走 ， 商店 就 在 右边 。",
+     "en": "Go left, and the shop's right there on the right.",
+     "focus": "左边"
+    },
+    {
+     "zh": "向 右边 走 ， 就 到 了 。",
+     "en": "Turn right and you're there.",
+     "focus": "向"
+    },
+    {
+     "zh": "饭馆 在 商店 右边 。",
+     "en": "The restaurant is to the right of the shop.",
+     "focus": "右边"
+    },
+    {
+     "zh": "学校 旁边 有 一 家 医院 。",
+     "en": "There's a hospital next to the school.",
+     "focus": "旁边"
+    },
+    {
+     "zh": "路 上 有 很 多 人 。",
+     "en": "There are lots of people on the street.",
+     "focus": "路"
+    },
+    {
+     "zh": "我 每天 走 路 去 上班 。",
+     "en": "I walk to work every day.",
+     "alt": [
+      "每天 我 走 路 去 上班 。"
+     ]
+    },
+    {
+     "zh": "你 什么 时候 到 北京 ？",
+     "en": "When do you arrive in Beijing?",
+     "focus": "到"
+    },
+    {
+     "zh": "我 从 九 点 到 五 点 上班 。",
+     "en": "I work from nine to five."
+    },
+    {
+     "zh": "老师 ， 请 进 ！",
+     "en": "Come in, teacher!",
+     "focus": "进"
+    },
+    {
+     "zh": "他 出 去 了 。",
+     "en": "He's gone out.",
+     "focus": "出"
+    },
+    {
+     "zh": "他 从 房间 里 出 来 了 。",
+     "en": "He came out of the room."
+    },
+    {
+     "zh": "请 开 门 。",
+     "en": "Please open the door.",
+     "focus": "门"
+    },
+    {
+     "zh": "门 外 有 一 个 人 。",
+     "en": "There's someone outside the door.",
+     "focus": "外"
+    },
+    {
+     "zh": "外面 很 冷 。",
+     "en": "It's cold outside."
+    },
+    {
+     "zh": "我 的 房间 很 小 。",
+     "en": "My room is small.",
+     "focus": "房间"
+    }
+   ],
+   "dialogue": {
+    "title": "Where is the hospital?",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "对不起 ， 医院 离 这里 远 吗 ？",
+      "en": "Excuse me, is the hospital far from here?"
+     },
+     {
+      "who": "B",
+      "zh": "不 远 ， 走 路 十 分钟 。",
+      "en": "No, it's ten minutes on foot."
+     },
+     {
+      "who": "A",
+      "zh": "怎么 走 ？",
+      "en": "How do I get there?"
+     },
+     {
+      "who": "B",
+      "zh": "你 从 这里 向 左边 走 ， 医院 在 学校 旁边 。",
+      "en": "Go left from here. The hospital is next to the school."
+     },
+     {
+      "who": "A",
+      "zh": "谢谢 ！",
+      "en": "Thanks!"
+     },
+     {
+      "who": "B",
+      "zh": "不客气 。",
+      "en": "You're welcome."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How far is the hospital on foot?",
+      "options": [
+       "Five minutes",
+       "Ten minutes",
+       "Twenty minutes"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "Where is the hospital?",
+      "options": [
+       "Next to the school",
+       "Behind the station",
+       "To the right of the shop"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "reading": {
+    "title": "我的学校",
+    "zh": "我家离学校很近，我每天走路去学校，十分钟就到了。学校左边有一个商店，右边有一家饭馆，学校后面是医院。我的同学大卫家离学校很远，他每天坐出租车来学校。",
+    "en": "My home is very close to school. I walk to school every day and I'm there in ten minutes. To the left of the school there's a shop, to the right there's a restaurant, and behind the school is the hospital. My classmate David lives far from school; he takes a taxi to school every day.",
+    "questions": [
+     {
+      "q": "How does the writer get to school?",
+      "options": [
+       "On foot",
+       "By taxi",
+       "By bus"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "What is to the right of the school?",
+      "options": [
+       "A shop",
+       "A restaurant",
+       "A hospital"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How does David get to school?",
+      "options": [
+       "He walks",
+       "He takes a taxi",
+       "He rides a bike"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u06",
+   "title": "Travel experiences",
+   "titleZh": "去旅游",
+   "goal": "Talk about trips, transport and tickets, and say what you have or have never done.",
+   "words": [
+    "旅游",
+    "去年",
+    "已经",
+    "次",
+    "第一",
+    "票",
+    "机场",
+    "船",
+    "公共汽车",
+    "自行车",
+    "号",
+    "准备",
+    "快",
+    "慢"
+   ],
+   "glosses": {
+    "旅游": "to travel; to go on a trip",
+    "去年": "last year",
+    "已经": "already",
+    "次": "time (occurrence)",
+    "第一": "first",
+    "票": "ticket",
+    "机场": "airport",
+    "船": "boat; ship",
+    "公共汽车": "bus",
+    "自行车": "bicycle",
+    "号": "day of the month; number",
+    "准备": "to prepare; to plan to",
+    "快": "fast; quick",
+    "慢": "slow"
+   },
+   "extra": {
+    "过": "(after a verb) have ever done",
+    "骑": "to ride (a bike)",
+    "天": "day"
+   },
+   "grammar": [
+    {
+     "title": "过: have ever done",
+     "pattern": "Subject + Verb + 过 + Object　/　没 + Verb + 过",
+     "explain": "过 right after a verb says that you have had this experience at some time in the past: 我去过北京 'I've been to Beijing'. The negative is 没 + verb + 过: 'have never…'.",
+     "examples": [
+      {
+       "zh": "你 去 过 北京 吗 ？",
+       "en": "Have you ever been to Beijing?"
+      },
+      {
+       "zh": "我 没 坐 过 船 。",
+       "en": "I've never been on a boat."
+      },
+      {
+       "zh": "我 吃 过 羊肉 。",
+       "en": "I've eaten lamb before."
+      }
+     ]
+    },
+    {
+     "title": "How many times: 次 and 第一次",
+     "pattern": "Verb + (过) + Number + 次　/　第一 次 + Verb",
+     "explain": "次 counts how many times something happens; it comes after the verb. 第一次 means 'the first time' and comes before the verb.",
+     "examples": [
+      {
+       "zh": "我 去 过 两 次 。",
+       "en": "I've been twice."
+      },
+      {
+       "zh": "这 是 我 第一 次 坐 飞机 。",
+       "en": "This is my first time on a plane."
+      },
+      {
+       "zh": "我 一 个 月 回 一 次 家 。",
+       "en": "I go home once a month."
+      }
+     ]
+    },
+    {
+     "title": "已经…了: already",
+     "pattern": "Subject + 已经 + Verb + (Object) + 了",
+     "explain": "已经 means 'already' and goes before the verb. The sentence usually ends with 了.",
+     "examples": [
+      {
+       "zh": "我 已经 买 票 了 。",
+       "en": "I've already bought the ticket."
+      },
+      {
+       "zh": "飞机 已经 到 了 。",
+       "en": "The plane has already arrived."
+      },
+      {
+       "zh": "他 已经 走 了 。",
+       "en": "He's already left."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "你 去 过 北京 吗 ？",
+     "en": "Have you ever been to Beijing?",
+     "focus": "过"
+    },
+    {
+     "zh": "我 去 过 两 次 。",
+     "en": "I've been twice.",
+     "focus": "次"
+    },
+    {
+     "zh": "我 没 坐 过 船 。",
+     "en": "I've never been on a boat.",
+     "focus": "船"
+    },
+    {
+     "zh": "去年 我 去 中国 旅游 了 。",
+     "en": "Last year I went on a trip to China.",
+     "alt": [
+      "我 去年 去 中国 旅游 了 。"
+     ],
+     "focus": "旅游"
+    },
+    {
+     "zh": "去年 我 去 过 一 次 中国 。",
+     "en": "I went to China once last year.",
+     "alt": [
+      "我 去年 去 过 一 次 中国 。"
+     ],
+     "focus": "去年"
+    },
+    {
+     "zh": "这 是 我 第一 次 坐 飞机 。",
+     "en": "This is my first time on a plane.",
+     "focus": "第一"
+    },
+    {
+     "zh": "我 已经 买 票 了 。",
+     "en": "I've already bought the ticket.",
+     "focus": "已经"
+    },
+    {
+     "zh": "两 张 票 多少 钱 ？",
+     "en": "How much are two tickets?",
+     "focus": "票"
+    },
+    {
+     "zh": "飞机 已经 到 了 。",
+     "en": "The plane has already arrived."
+    },
+    {
+     "zh": "机场 离 这里 远 吗 ？",
+     "en": "Is the airport far from here?",
+     "focus": "机场"
+    },
+    {
+     "zh": "我们 坐 公共汽车 去 机场 吧 。",
+     "en": "Let's take the bus to the airport.",
+     "focus": "公共汽车"
+    },
+    {
+     "zh": "坐 出租车 去 机场 很 快 。",
+     "en": "Taking a taxi to the airport is fast.",
+     "focus": "快"
+    },
+    {
+     "zh": "公共汽车 太 慢 了 。",
+     "en": "The bus is too slow.",
+     "focus": "慢"
+    },
+    {
+     "zh": "请 开 慢 一点 ！",
+     "en": "Please drive a bit slower!"
+    },
+    {
+     "zh": "我 每天 骑 自行车 上班 。",
+     "en": "I ride my bike to work every day.",
+     "alt": [
+      "每天 我 骑 自行车 上班 。"
+     ],
+     "focus": "自行车"
+    },
+    {
+     "zh": "你 几 号 去 旅游 ？",
+     "en": "What date are you going on your trip?",
+     "focus": "号"
+    },
+    {
+     "zh": "我 七 月 十五 号 去 。",
+     "en": "I'm going on July 15th."
+    },
+    {
+     "zh": "你 准备 好 了 吗 ？",
+     "en": "Are you ready?",
+     "focus": "准备"
+    },
+    {
+     "zh": "我 准备 去 北京 旅游 。",
+     "en": "I'm planning a trip to Beijing."
+    }
+   ],
+   "dialogue": {
+    "title": "Planning a trip",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "你 去 过 北京 吗 ？",
+      "en": "Have you ever been to Beijing?"
+     },
+     {
+      "who": "B",
+      "zh": "没 去 过 。 我 准备 七 月 去 。",
+      "en": "No, never. I'm planning to go in July."
+     },
+     {
+      "who": "A",
+      "zh": "你 买 票 了 吗 ？",
+      "en": "Have you bought a ticket?"
+     },
+     {
+      "who": "B",
+      "zh": "已经 买 了 ， 七 月 八 号 的 飞机 。",
+      "en": "Yes, already — a flight on July 8th."
+     },
+     {
+      "who": "A",
+      "zh": "太 好 了 ！ 我 去年 去 过 一 次 ， 北京 很 漂亮 。",
+      "en": "Great! I went once last year. Beijing's beautiful."
+     },
+     {
+      "who": "B",
+      "zh": "从 机场 到 我 朋友 家 ， 坐 公共汽车 还是 坐 出租车 ？",
+      "en": "From the airport to my friend's place — should I take the bus or a taxi?"
+     },
+     {
+      "who": "A",
+      "zh": "坐 出租车 吧 ， 很 快 。",
+      "en": "Take a taxi — it's fast."
+     }
+    ],
+    "questions": [
+     {
+      "q": "Has B been to Beijing before?",
+      "options": [
+       "Yes, once",
+       "Yes, twice",
+       "No, never"
+      ],
+      "answer": 2
+     },
+     {
+      "q": "When is B's flight?",
+      "options": [
+       "July 8th",
+       "July 18th",
+       "August 8th"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "What does A suggest?",
+      "options": [
+       "Taking the bus",
+       "Taking a taxi",
+       "Riding a bike"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "reading": {
+    "title": "去中国旅游",
+    "zh": "去年八月，我和爸爸妈妈去中国旅游。这是我第一次去北京，我很高兴。我们在北京住了一个星期，每天都坐公共汽车出去。北京很大，人很多，菜也很好吃。我们还坐了一次船。我已经去过两次中国了，我还想再去一次。",
+    "en": "Last August I went on a trip to China with my mom and dad. It was my first time in Beijing and I was very happy. We stayed in Beijing for a week and went out by bus every day. Beijing is big, there are lots of people, and the food is delicious too. We also took a boat trip once. I've been to China twice now, and I'd like to go again.",
+    "questions": [
+     {
+      "q": "When did the writer go to China?",
+      "options": [
+       "Last July",
+       "Last August",
+       "This August"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How did they get around in Beijing?",
+      "options": [
+       "By taxi",
+       "By bus",
+       "By bike"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How many times has the writer been to China?",
+      "options": [
+       "Once",
+       "Twice",
+       "Three times"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u07",
+   "title": "Health and exercise",
+   "titleZh": "身体好",
+   "goal": "Say how you feel, give reasons with 因为…所以, and give simple health advice.",
+   "words": [
+    "身体",
+    "眼睛",
+    "生病",
+    "药",
+    "运动",
+    "跑步",
+    "因为",
+    "所以",
+    "为",
+    "别",
+    "可能",
+    "觉得",
+    "希望",
+    "让"
+   ],
+   "glosses": {
+    "身体": "body; health",
+    "眼睛": "eye",
+    "生病": "to get sick; to be ill",
+    "药": "medicine",
+    "运动": "sport; to exercise",
+    "跑步": "to run; to jog",
+    "因为": "because",
+    "所以": "so; therefore",
+    "为": "for (为什么: why)",
+    "别": "don't",
+    "可能": "maybe; possibly",
+    "觉得": "to feel; to think",
+    "希望": "to hope",
+    "让": "to let; to make (sb do)"
+   },
+   "pinyin": {
+    "别": "bié"
+   },
+   "extra": {
+    "对": "to; for (对…好: good for)",
+    "天": "day",
+    "外面": "outside",
+    "说": "to say; to speak",
+    "王明": "Wang Ming (a name)",
+    "李月": "Li Yue (a name)"
+   },
+   "grammar": [
+    {
+     "title": "Giving reasons: 因为…所以…",
+     "pattern": "因为 + Reason ， 所以 + Result",
+     "explain": "因为 means 'because' and 所以 means 'so'. Chinese often uses both in the same sentence, which English never does. You can also use just one of them. Ask 'why' with 为什么.",
+     "examples": [
+      {
+       "zh": "你 为什么 没 来 ？",
+       "en": "Why didn't you come?"
+      },
+      {
+       "zh": "因为 我 生病 了 ， 所以 没 去 上班 。",
+       "en": "I was ill, so I didn't go to work."
+      },
+      {
+       "zh": "因为 下雨 了 ， 所以 我们 没 去 跑步 。",
+       "en": "Because it rained, we didn't go running."
+      }
+     ]
+    },
+    {
+     "title": "别: don't",
+     "pattern": "别 + Verb (+ 了)",
+     "explain": "别 before a verb means 'don't' — a friendly, everyday way to tell someone not to do something. 别…了 means 'stop doing …'.",
+     "examples": [
+      {
+       "zh": "别 看 电视 了 。",
+       "en": "Stop watching TV."
+      },
+      {
+       "zh": "你 别 喝 咖啡 。",
+       "en": "Don't drink coffee."
+      },
+      {
+       "zh": "别 走 ！",
+       "en": "Don't go!"
+      }
+     ]
+    },
+    {
+     "title": "让: make / let someone do",
+     "pattern": "A + 让 + B + Verb",
+     "explain": "让 means 'let', 'make' or 'tell' someone to do something. The person comes right after 让, then the action.",
+     "examples": [
+      {
+       "zh": "医生 让 我 多 休息 。",
+       "en": "The doctor told me to rest more."
+      },
+      {
+       "zh": "妈妈 不 让 我 喝 咖啡 。",
+       "en": "Mom doesn't let me drink coffee."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "你 身体 怎么样 ？",
+     "en": "How is your health?",
+     "focus": "身体"
+    },
+    {
+     "zh": "我 生病 了 。",
+     "en": "I'm sick.",
+     "focus": "生病"
+    },
+    {
+     "zh": "你 为什么 没 来 上班 ？",
+     "en": "Why didn't you come to work?",
+     "focus": "为什么"
+    },
+    {
+     "zh": "因为 我 生病 了 ， 所以 没 去 。",
+     "en": "I was sick, so I didn't go.",
+     "focus": "因为"
+    },
+    {
+     "zh": "因为 下雨 ， 所以 我 没 去 跑步 。",
+     "en": "It was raining, so I didn't go running.",
+     "focus": "所以"
+    },
+    {
+     "zh": "他 为什么 去 医院 ？",
+     "en": "Why is he going to the hospital?"
+    },
+    {
+     "zh": "医生 让 我 在 家 休息 。",
+     "en": "The doctor told me to rest at home.",
+     "focus": "让"
+    },
+    {
+     "zh": "妈妈 让 我 多 喝 水 。",
+     "en": "Mom told me to drink lots of water."
+    },
+    {
+     "zh": "你 要 吃 药 。",
+     "en": "You need to take medicine.",
+     "focus": "药"
+    },
+    {
+     "zh": "别 喝 咖啡 了 。",
+     "en": "Stop drinking coffee.",
+     "focus": "别"
+    },
+    {
+     "zh": "你 别 看 电脑 了 ， 眼睛 会 累 的 。",
+     "en": "Stop looking at the computer — your eyes will get tired.",
+     "focus": "眼睛"
+    },
+    {
+     "zh": "我 每天 早上 跑步 。",
+     "en": "I go running every morning.",
+     "alt": [
+      "每天 早上 我 跑步 。"
+     ],
+     "focus": "跑步"
+    },
+    {
+     "zh": "运动 对 身体 很 好 。",
+     "en": "Exercise is good for your health.",
+     "focus": "运动"
+    },
+    {
+     "zh": "我 很 喜欢 运动 。",
+     "en": "I really like sport."
+    },
+    {
+     "zh": "我 觉得 很 累 。",
+     "en": "I feel very tired.",
+     "focus": "觉得"
+    },
+    {
+     "zh": "你 觉得 怎么样 ？",
+     "en": "How do you feel?"
+    },
+    {
+     "zh": "他 今天 可能 不 来 。",
+     "en": "He might not come today.",
+     "alt": [
+      "今天 他 可能 不 来 。"
+     ],
+     "focus": "可能"
+    },
+    {
+     "zh": "我 希望 他 明天 能 来 。",
+     "en": "I hope he can come tomorrow.",
+     "focus": "希望"
+    },
+    {
+     "zh": "外面 下雨 了 ， 我们 别 去 跑步 了 。",
+     "en": "It's raining outside — let's not go running."
+    }
+   ],
+   "dialogue": {
+    "title": "At the doctor's",
+    "lines": [
+     {
+      "who": "医生",
+      "zh": "你 怎么 了 ？",
+      "en": "What's the matter?"
+     },
+     {
+      "who": "王明",
+      "zh": "我 觉得 很 累 ， 眼睛 也 不 太 好 。",
+      "en": "I feel very tired, and my eyes are not great either."
+     },
+     {
+      "who": "医生",
+      "zh": "你 每天 工作 几 个 小时 ？",
+      "en": "How many hours do you work a day?"
+     },
+     {
+      "who": "王明",
+      "zh": "十二 个 小时 ， 每天 都 看 电脑 。",
+      "en": "Twelve hours, looking at a computer every day."
+     },
+     {
+      "who": "医生",
+      "zh": "你 太 累 了 。 在 家 休息 两 天 吧 ， 别 看 电脑 了 。",
+      "en": "You're exhausted. Rest at home for two days, and stay off the computer."
+     },
+     {
+      "who": "王明",
+      "zh": "我 要 吃 药 吗 ？",
+      "en": "Do I need to take medicine?"
+     },
+     {
+      "who": "医生",
+      "zh": "我 给 你 一些 药 。 多 喝 水 ， 多 休息 。",
+      "en": "I'll give you some medicine. Drink plenty of water and get lots of rest."
+     }
+    ],
+    "questions": [
+     {
+      "q": "How many hours does Wang Ming work a day?",
+      "options": [
+       "8",
+       "10",
+       "12"
+      ],
+      "answer": 2
+     },
+     {
+      "q": "What does the doctor tell him to do?",
+      "options": [
+       "Work harder",
+       "Rest at home for two days",
+       "Go running every day"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "reading": {
+    "title": "李月的身体",
+    "zh": "李月是老师，她每天都很忙，没有时间运动。上个星期她生病了，去医院看医生。医生说，因为她工作太多，也不运动，所以身体不太好。医生让她多休息，多喝水，每天跑步三十分钟。现在李月每天早上都去跑步，她觉得身体好多了。",
+    "en": "Li Yue is a teacher. She is busy every day and has no time to exercise. Last week she got sick and went to see a doctor. The doctor said that because she works too much and doesn't exercise, her health isn't very good. The doctor told her to rest more, drink more water and run for thirty minutes every day. Now Li Yue goes running every morning, and she feels much better.",
+    "questions": [
+     {
+      "q": "Why wasn't Li Yue healthy?",
+      "options": [
+       "She ate bad food",
+       "She worked too much and didn't exercise",
+       "She ran too much"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What did the doctor tell her to do?",
+      "options": [
+       "Rest more and drink more water",
+       "Go on a trip",
+       "Stop running"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "What does she do every morning now?",
+      "options": [
+       "Swims",
+       "Runs",
+       "Plays basketball"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u08",
+   "title": "Hobbies and parties",
+   "titleZh": "唱歌跳舞",
+   "goal": "Talk about hobbies and sports, say how well people do things, and celebrate a birthday.",
+   "words": [
+    "唱歌",
+    "跳舞",
+    "踢",
+    "打篮球",
+    "游泳",
+    "玩",
+    "得",
+    "笑",
+    "快乐",
+    "非常",
+    "但是",
+    "生日",
+    "送",
+    "正在"
+   ],
+   "glosses": {
+    "唱歌": "to sing (songs)",
+    "跳舞": "to dance",
+    "踢": "to kick",
+    "打篮球": "to play basketball",
+    "游泳": "to swim",
+    "玩": "to play; to have fun",
+    "得": "(links a verb to how it is done)",
+    "笑": "to laugh; to smile",
+    "快乐": "happy; joyful",
+    "非常": "very; extremely",
+    "但是": "but",
+    "生日": "birthday",
+    "送": "to give (as a gift)",
+    "正在": "in the middle of (doing)"
+   },
+   "pinyin": {
+    "得": "de"
+   },
+   "extra": {
+    "足球": "football; soccer",
+    "虽然": "although",
+    "唱": "to sing",
+    "饭": "meal; food",
+    "安娜": "Anna (a name)",
+    "大卫": "David (a name)"
+   },
+   "grammar": [
+    {
+     "title": "正在: in the middle of doing",
+     "pattern": "Subject + 正在 / 在 + Verb (+ 呢)",
+     "explain": "正在 (or just 在) before a verb shows that an action is happening right now. 呢 is often added at the end of the sentence. 你在做什么呢？ is the everyday 'What are you doing?'.",
+     "examples": [
+      {
+       "zh": "他 正在 唱歌 。",
+       "en": "He's singing."
+      },
+      {
+       "zh": "你 在 做 什么 呢 ？",
+       "en": "What are you doing?"
+      },
+      {
+       "zh": "我 在 看 电视 。",
+       "en": "I'm watching TV."
+      }
+     ]
+    },
+    {
+     "title": "得: how well something is done",
+     "pattern": "Verb + 得 + (很 / 非常) + Adjective",
+     "explain": "得 after a verb introduces a comment on how the action is done: 玩得很高兴 'had a great time'. If the verb has an object, say the verb + object first and then repeat the verb before 得: 他唱歌唱得很好. The negative goes after 得: 唱得不好.",
+     "examples": [
+      {
+       "zh": "我们 玩 得 很 高兴 。",
+       "en": "We had a great time."
+      },
+      {
+       "zh": "他 唱歌 唱 得 非常 好 。",
+       "en": "He sings really well."
+      },
+      {
+       "zh": "她 写 字 写 得 很 漂亮 。",
+       "en": "She writes characters beautifully."
+      }
+     ]
+    },
+    {
+     "title": "虽然…但是…: although",
+     "pattern": "虽然 + A ， 但是 + B",
+     "explain": "Chinese uses 虽然 ('although') and 但是 ('but') together in one sentence, where English uses only one of them. 但是 can also be used on its own.",
+     "examples": [
+      {
+       "zh": "虽然 我 很 累 ， 但是 我 很 快乐 。",
+       "en": "Although I'm tired, I'm happy."
+      },
+      {
+       "zh": "我 喜欢 唱歌 ， 但是 唱 得 不 好 。",
+       "en": "I like singing, but I'm not good at it."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "你 在 做 什么 呢 ？",
+     "en": "What are you doing?",
+     "focus": "做"
+    },
+    {
+     "zh": "我 正在 看 电视 。",
+     "en": "I'm watching TV.",
+     "focus": "正在"
+    },
+    {
+     "zh": "他 正在 打篮球 。",
+     "en": "He's playing basketball.",
+     "focus": "打篮球"
+    },
+    {
+     "zh": "孩子 正在 房间 里 玩 。",
+     "en": "The child is playing in the room."
+    },
+    {
+     "zh": "你 喜欢 踢 足球 吗 ？",
+     "en": "Do you like playing football?",
+     "focus": "踢"
+    },
+    {
+     "zh": "我 喜欢 游泳 ， 也 喜欢 跑步 。",
+     "en": "I like swimming and running.",
+     "focus": "游泳"
+    },
+    {
+     "zh": "我 非常 喜欢 游泳 。",
+     "en": "I really love swimming.",
+     "focus": "非常"
+    },
+    {
+     "zh": "星期六 我们 一起 去 游泳 吧 。",
+     "en": "Let's go swimming together on Saturday.",
+     "alt": [
+      "我们 星期六 一起 去 游泳 吧 。"
+     ]
+    },
+    {
+     "zh": "我们 去 唱歌 跳舞 吧 ！",
+     "en": "Let's go singing and dancing!",
+     "focus": "跳舞"
+    },
+    {
+     "zh": "她 唱歌 唱 得 非常 好 。",
+     "en": "She sings really well.",
+     "focus": "得"
+    },
+    {
+     "zh": "他 写 字 写 得 很 漂亮 。",
+     "en": "His handwriting is beautiful."
+    },
+    {
+     "zh": "我们 玩 得 非常 高兴 。",
+     "en": "We had a great time.",
+     "focus": "玩"
+    },
+    {
+     "zh": "我 喜欢 唱歌 ， 但是 唱 得 不 好 。",
+     "en": "I like singing, but I'm not good at it.",
+     "focus": "唱歌"
+    },
+    {
+     "zh": "虽然 我 很 累 ， 但是 很 快乐 。",
+     "en": "I'm tired but happy.",
+     "focus": "但是"
+    },
+    {
+     "zh": "今天 是 我 的 生日 。",
+     "en": "Today's my birthday.",
+     "focus": "生日"
+    },
+    {
+     "zh": "安娜 ， 生日 快乐 ！",
+     "en": "Happy birthday, Anna!",
+     "focus": "快乐"
+    },
+    {
+     "zh": "我 送 你 一 本 书 。",
+     "en": "Here's a book for you.",
+     "focus": "送"
+    },
+    {
+     "zh": "他 笑 了 。",
+     "en": "He smiled.",
+     "focus": "笑"
+    },
+    {
+     "zh": "大家 都 笑 了 。",
+     "en": "Everyone laughed."
+    }
+   ],
+   "dialogue": {
+    "title": "A birthday party",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "喂 ， 你 在 做 什么 呢 ？",
+      "en": "Hi, what are you doing?"
+     },
+     {
+      "who": "B",
+      "zh": "我 正在 看 电视 。",
+      "en": "I'm watching TV."
+     },
+     {
+      "who": "A",
+      "zh": "今天 是 安娜 的 生日 ， 我们 去 唱歌 吧 ！",
+      "en": "It's Anna's birthday today. Let's go singing!"
+     },
+     {
+      "who": "B",
+      "zh": "好 ！ 我 送 她 什么 呢 ？",
+      "en": "OK! What should I give her?"
+     },
+     {
+      "who": "A",
+      "zh": "她 喜欢 看 书 ， 你 送 她 一 本 书 吧 。",
+      "en": "She likes reading — give her a book."
+     },
+     {
+      "who": "B",
+      "zh": "好 ， 我们 几 点 去 ？",
+      "en": "OK. What time are we going?"
+     },
+     {
+      "who": "A",
+      "zh": "晚上 七 点 。",
+      "en": "Seven this evening."
+     }
+    ],
+    "questions": [
+     {
+      "q": "What is B doing?",
+      "options": [
+       "Watching TV",
+       "Singing",
+       "Reading"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Whose birthday is it?",
+      "options": [
+       "A's",
+       "B's",
+       "Anna's"
+      ],
+      "answer": 2
+     },
+     {
+      "q": "What gift does A suggest?",
+      "options": [
+       "A book",
+       "Clothes",
+       "A watch"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "reading": {
+    "title": "安娜的生日",
+    "zh": "星期六是安娜的生日。她请了很多朋友来她家。大家一起吃饭、唱歌、跳舞。大卫送了安娜一本书，我送了她一件红衣服。安娜唱歌唱得非常好。大卫不会跳舞，但是他也和大家一起跳舞，大家都笑了。我们玩得非常快乐。",
+    "en": "Saturday was Anna's birthday. She invited lots of friends to her home. Everyone ate, sang and danced together. David gave Anna a book, and I gave her a red top. Anna sings really well. David can't dance, but he danced with everyone anyway, and we all laughed. We had a wonderful time.",
+    "questions": [
+     {
+      "q": "When was Anna's birthday?",
+      "options": [
+       "Friday",
+       "Saturday",
+       "Sunday"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What did David give Anna?",
+      "options": [
+       "A book",
+       "A red top",
+       "A watch"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Why did everyone laugh?",
+      "options": [
+       "Anna sang badly",
+       "David danced although he can't dance",
+       "The music stopped"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u09",
+   "title": "School and work",
+   "titleZh": "学习和工作",
+   "goal": "Ask and answer questions in class or at work, say what is right or wrong, and ask for help.",
+   "words": [
+    "公司",
+    "课",
+    "考试",
+    "题",
+    "问题",
+    "问",
+    "回答",
+    "告诉",
+    "知道",
+    "懂",
+    "意思",
+    "错",
+    "帮助",
+    "事情",
+    "找",
+    "教室"
+   ],
+   "glosses": {
+    "公司": "company",
+    "课": "class; lesson",
+    "考试": "exam; to take an exam",
+    "题": "test question; exercise",
+    "问题": "question; problem",
+    "问": "to ask",
+    "回答": "to answer",
+    "告诉": "to tell",
+    "知道": "to know (a fact)",
+    "懂": "to understand",
+    "意思": "meaning",
+    "错": "wrong; mistaken",
+    "帮助": "to help; help",
+    "事情": "matter; affair",
+    "找": "to look for",
+    "教室": "classroom"
+   },
+   "pinyin": {
+    "错": "cuò",
+    "题": "tí",
+    "告诉": "gào su"
+   },
+   "extra": {
+    "对": "right; correct; to (towards)",
+    "一边": "while (一边…一边)",
+    "说": "to say; to speak",
+    "饭": "meal; food",
+    "天": "day",
+    "李月": "Li Yue (a name)"
+   },
+   "grammar": [
+    {
+     "title": "对 and 错: right and wrong",
+     "pattern": "Verb + 对 / 错 + 了　/　A + 对 + B + Adjective",
+     "explain": "对 means 'right' and 错 means 'wrong'. After a verb they say whether it was done correctly: 你说对了 'you're right', 我写错了 'I wrote it wrong'. 对 also means 'to / towards': 老师对我们很好 'the teacher is good to us'.",
+     "examples": [
+      {
+       "zh": "你 说 对 了 。",
+       "en": "You're right."
+      },
+      {
+       "zh": "这 个 字 我 写 错 了 。",
+       "en": "I wrote this character wrong."
+      },
+      {
+       "zh": "老师 对 我们 非常 好 。",
+       "en": "Our teacher is really good to us."
+      }
+     ]
+    },
+    {
+     "title": "一边…一边…: two things at once",
+     "pattern": "Subject + 一边 + Verb 1 + 一边 + Verb 2",
+     "explain": "Use 一边 before each of two verbs to say that someone does both at the same time.",
+     "examples": [
+      {
+       "zh": "他 一边 工作 一边 学习 。",
+       "en": "He works and studies at the same time."
+      },
+      {
+       "zh": "别 一边 吃 饭 一边 看 电视 。",
+       "en": "Don't watch TV while you eat."
+      }
+     ]
+    },
+    {
+     "title": "问 and 告诉 + person + thing",
+     "pattern": "问 + Person + Question　/　告诉 + Person + Information",
+     "explain": "问 'ask' and 告诉 'tell' can be followed first by a person and then by what is asked or told. Remember: 知道 is to know a fact, 懂 is to understand, and 认识 is to know a person.",
+     "examples": [
+      {
+       "zh": "我 可以 问 你 一 个 问题 吗 ？",
+       "en": "Can I ask you a question?"
+      },
+      {
+       "zh": "他 告诉 我 一 件 事情 。",
+       "en": "He told me something."
+      },
+      {
+       "zh": "请 告诉 我 你 的 名字 。",
+       "en": "Please tell me your name."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "我 可以 问 你 一 个 问题 吗 ？",
+     "en": "Can I ask you a question?",
+     "focus": "问"
+    },
+    {
+     "zh": "这 个 问题 我 不 会 回答 。",
+     "en": "I can't answer this question.",
+     "focus": "回答"
+    },
+    {
+     "zh": "你 知道 他 在 哪里 吗 ？",
+     "en": "Do you know where he is?",
+     "focus": "知道"
+    },
+    {
+     "zh": "我 不 知道 。",
+     "en": "I don't know."
+    },
+    {
+     "zh": "你 懂 我 的 意思 吗 ？",
+     "en": "Do you understand what I mean?",
+     "focus": "懂"
+    },
+    {
+     "zh": "这 个 字 是 什么 意思 ？",
+     "en": "What does this character mean?",
+     "focus": "意思"
+    },
+    {
+     "zh": "对不起 ， 我 写 错 了 。",
+     "en": "Sorry, I wrote it wrong.",
+     "focus": "错"
+    },
+    {
+     "zh": "你 说 对 了 。",
+     "en": "You're right.",
+     "focus": "对"
+    },
+    {
+     "zh": "他 告诉 我 明天 有 考试 。",
+     "en": "He told me there is an exam tomorrow.",
+     "focus": "告诉"
+    },
+    {
+     "zh": "明天 有 汉语 考试 。",
+     "en": "There's a Chinese exam tomorrow.",
+     "focus": "考试"
+    },
+    {
+     "zh": "这 个 题 我 不 会 。",
+     "en": "I can't do this question.",
+     "focus": "题"
+    },
+    {
+     "zh": "我们 下午 没 有 课 。",
+     "en": "We don't have class this afternoon.",
+     "focus": "课"
+    },
+    {
+     "zh": "老师 在 教室 里 。",
+     "en": "The teacher is in the classroom.",
+     "focus": "教室"
+    },
+    {
+     "zh": "他 在 一 家 公司 工作 。",
+     "en": "He works for a company.",
+     "focus": "公司"
+    },
+    {
+     "zh": "你 在 找 什么 ？",
+     "en": "What are you looking for?",
+     "focus": "找"
+    },
+    {
+     "zh": "谢谢 你 的 帮助 ！",
+     "en": "Thanks for your help!",
+     "focus": "帮助"
+    },
+    {
+     "zh": "我 有 一 件 事情 想 问 你 。",
+     "en": "There's something I want to ask you.",
+     "focus": "事情"
+    },
+    {
+     "zh": "他 一边 工作 一边 学习 。",
+     "en": "He works and studies at the same time.",
+     "focus": "一边"
+    },
+    {
+     "zh": "老师 对 学生 非常 好 。",
+     "en": "The teacher is very good to the students."
+    },
+    {
+     "zh": "别 一边 吃 饭 一边 看 电视 。",
+     "en": "Don't watch TV while you eat."
+    }
+   ],
+   "dialogue": {
+    "title": "Before the exam",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "明天 有 考试 ， 你 准备 好 了 吗 ？",
+      "en": "There's an exam tomorrow. Are you ready?"
+     },
+     {
+      "who": "B",
+      "zh": "还 没 有 。 这 个 题 我 不 懂 ， 你 能 帮助 我 吗 ？",
+      "en": "Not yet. I don't understand this question. Can you help me?"
+     },
+     {
+      "who": "A",
+      "zh": "可以 。 你 看 ， 这 个 字 你 写 错 了 。",
+      "en": "Sure. Look, you wrote this character wrong."
+     },
+     {
+      "who": "B",
+      "zh": "是 吗 ？ 哪 个 字 ？",
+      "en": "Really? Which character?"
+     },
+     {
+      "who": "A",
+      "zh": "你 写 的 是 “ 远 ” ， 不 是 “ 近 ” 。",
+      "en": "You wrote 远 ('far'), not 近 ('near')."
+     },
+     {
+      "who": "B",
+      "zh": "我 懂 了 ！ 谢谢 你 的 帮助 ！",
+      "en": "I get it now! Thanks for your help!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "When is the exam?",
+      "options": [
+       "Today",
+       "Tomorrow",
+       "Next week"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What mistake did B make?",
+      "options": [
+       "Wrote 远 instead of 近",
+       "Forgot the exam",
+       "Went to the wrong classroom"
+      ],
+      "answer": 0
+     }
+    ]
+   },
+   "reading": {
+    "title": "我的工作和学习",
+    "zh": "我叫李月，我在一家公司工作。我每天都很忙，但是我们公司的人都很好，我有问题的时候，大家都帮助我。晚上我还去学校学习汉语，一个星期上三次课。我的老师非常好，我们不懂的时候，她就再说一次。下个星期有考试，我要好好准备。",
+    "en": "My name is Li Yue and I work for a company. I'm busy every day, but the people at my company are all very nice — whenever I have a problem, they help me. In the evenings I also go to school to study Chinese; I have class three times a week. My teacher is great: when we don't understand, she says it again. There's an exam next week, so I need to prepare well.",
+    "questions": [
+     {
+      "q": "Where does Li Yue work?",
+      "options": [
+       "At a school",
+       "At a company",
+       "At a hospital"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How many Chinese classes does she have a week?",
+      "options": [
+       "Two",
+       "Three",
+       "Five"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What is happening next week?",
+      "options": [
+       "She is going on a trip",
+       "She has an exam",
+       "She is changing jobs"
+      ],
+      "answer": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "h2u10",
+   "title": "Weather and comparisons",
+   "titleZh": "比一比",
+   "goal": "Compare people and things, describe the weather, and say what is about to happen.",
+   "words": [
+    "比",
+    "高",
+    "长",
+    "晴",
+    "阴",
+    "雪",
+    "着",
+    "报纸",
+    "手表",
+    "手机",
+    "它",
+    "男人",
+    "女人"
+   ],
+   "glosses": {
+    "比": "than (in comparisons)",
+    "高": "tall; high",
+    "长": "long",
+    "晴": "sunny; clear",
+    "阴": "cloudy; overcast",
+    "雪": "snow",
+    "着": "(particle: ongoing state)",
+    "报纸": "newspaper",
+    "手表": "wristwatch",
+    "手机": "mobile phone",
+    "它": "it",
+    "男人": "man",
+    "女人": "woman"
+   },
+   "pinyin": {
+    "比": "bǐ",
+    "高": "gāo",
+    "阴": "yīn",
+    "雪": "xuě"
+   },
+   "extra": {
+    "天": "day",
+    "外面": "outside",
+    "说": "to say; to speak",
+    "小白": "Xiaobai (a pet name)"
+   },
+   "grammar": [
+    {
+     "title": "Comparing with 比",
+     "pattern": "A + 比 + B + Adjective　/　A + 没 有 + B + Adjective",
+     "explain": "A 比 B + adjective means 'A is more … than B'. Don't put 很 before the adjective; to say 'much more', add 多了 after it. To say 'A is not as … as B', use 没有.",
+     "examples": [
+      {
+       "zh": "今天 比 昨天 冷 。",
+       "en": "Today is colder than yesterday."
+      },
+      {
+       "zh": "哥哥 比 我 高 。",
+       "en": "My older brother is taller than me."
+      },
+      {
+       "zh": "我 没 有 哥哥 高 。",
+       "en": "I'm not as tall as my older brother."
+      }
+     ]
+    },
+    {
+     "title": "要…了: about to happen",
+     "pattern": "要 + Verb + 了",
+     "explain": "要 + verb + 了 says that something is going to happen very soon.",
+     "examples": [
+      {
+       "zh": "要 下雪 了 。",
+       "en": "It's going to snow."
+      },
+      {
+       "zh": "飞机 要 到 了 。",
+       "en": "The plane is about to arrive."
+      },
+      {
+       "zh": "考试 要 开始 了 。",
+       "en": "The exam is about to start."
+      }
+     ]
+    },
+    {
+     "title": "着: an ongoing state",
+     "pattern": "Verb + 着",
+     "explain": "着 after a verb describes a state that continues: the door is (standing) open, someone is wearing something. It can also show the way someone does another action: 坐着看报纸 'sit reading the paper'.",
+     "examples": [
+      {
+       "zh": "门 开 着 。",
+       "en": "The door is open."
+      },
+      {
+       "zh": "他 穿 着 一 件 黑 衣服 。",
+       "en": "He's wearing a black top."
+      },
+      {
+       "zh": "爸爸 坐 着 看 报纸 。",
+       "en": "Dad is sitting reading the newspaper."
+      }
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "zh": "今天 比 昨天 冷 。",
+     "en": "Today is colder than yesterday.",
+     "focus": "比"
+    },
+    {
+     "zh": "今天 比 昨天 热 多 了 。",
+     "en": "Today is much hotter than yesterday."
+    },
+    {
+     "zh": "哥哥 比 我 高 。",
+     "en": "My older brother is taller than me.",
+     "focus": "高"
+    },
+    {
+     "zh": "我 没 有 哥哥 高 。",
+     "en": "I'm not as tall as my older brother."
+    },
+    {
+     "zh": "坐 飞机 比 坐 公共汽车 快 。",
+     "en": "Flying is faster than taking the bus."
+    },
+    {
+     "zh": "我 的 手机 比 你 的 新 。",
+     "en": "My phone is newer than yours.",
+     "focus": "手机"
+    },
+    {
+     "zh": "今天 阴 ， 明天 晴 。",
+     "en": "Cloudy today, sunny tomorrow.",
+     "focus": "晴"
+    },
+    {
+     "zh": "今天 是 阴天 ， 可能 要 下雨 。",
+     "en": "It's overcast today; it might rain.",
+     "focus": "阴天"
+    },
+    {
+     "zh": "要 下雪 了 。",
+     "en": "It's going to snow.",
+     "focus": "要"
+    },
+    {
+     "zh": "外面 下雪 了 。",
+     "en": "It's snowing outside."
+    },
+    {
+     "zh": "我 很 喜欢 雪 。",
+     "en": "I really like snow.",
+     "focus": "雪"
+    },
+    {
+     "zh": "飞机 要 到 了 。",
+     "en": "The plane is about to arrive."
+    },
+    {
+     "zh": "门 开 着 。",
+     "en": "The door is open.",
+     "focus": "着"
+    },
+    {
+     "zh": "他 穿 着 一 件 黑 衣服 。",
+     "en": "He's wearing a black top."
+    },
+    {
+     "zh": "爸爸 坐 着 看 报纸 。",
+     "en": "Dad is sitting reading the newspaper.",
+     "focus": "报纸"
+    },
+    {
+     "zh": "这 块 手表 是 我 妈妈 送 我 的 。",
+     "en": "My mom gave me this watch.",
+     "focus": "手表"
+    },
+    {
+     "zh": "这 个 电影 很 长 。",
+     "en": "This movie is long.",
+     "focus": "长"
+    },
+    {
+     "zh": "那 个 男人 是 谁 ？",
+     "en": "Who is that man?",
+     "focus": "男人"
+    },
+    {
+     "zh": "那 个 女人 是 我 的 老师 。",
+     "en": "That woman is my teacher.",
+     "focus": "女人"
+    },
+    {
+     "zh": "这 是 我 的 狗 ， 它 叫 小白 。",
+     "en": "This is my dog; it's called Xiaobai.",
+     "focus": "它"
+    }
+   ],
+   "dialogue": {
+    "title": "What's the weather like?",
+    "lines": [
+     {
+      "who": "A",
+      "zh": "外面 天气 怎么样 ？",
+      "en": "What's the weather like outside?"
+     },
+     {
+      "who": "B",
+      "zh": "今天 阴 ， 比 昨天 冷 。",
+      "en": "It's cloudy today, and colder than yesterday."
+     },
+     {
+      "who": "A",
+      "zh": "要 下雪 了 吗 ？",
+      "en": "Is it going to snow?"
+     },
+     {
+      "who": "B",
+      "zh": "我 看 了 手机 ， 明天 可能 下雪 。",
+      "en": "I checked my phone — it might snow tomorrow."
+     },
+     {
+      "who": "A",
+      "zh": "太 好 了 ！ 我 很 喜欢 雪 。",
+      "en": "Great! I love snow."
+     },
+     {
+      "who": "B",
+      "zh": "我 不 喜欢 ， 太 冷 了 ！",
+      "en": "I don't — it's too cold!"
+     }
+    ],
+    "questions": [
+     {
+      "q": "How is today's weather compared with yesterday?",
+      "options": [
+       "Warmer",
+       "Colder",
+       "The same"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "How does A feel about snow?",
+      "options": [
+       "Likes it",
+       "Dislikes it",
+       "Is afraid of it"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "Where did B check the weather?",
+      "options": [
+       "In the newspaper",
+       "On the phone",
+       "On TV"
+      ],
+      "answer": 1
+     }
+    ]
+   },
+   "reading": {
+    "title": "下雪了",
+    "zh": "昨天是晴天，今天是阴天，比昨天冷多了。下午，外面下雪了。我坐在房间里，看着外面的雪。我的狗也很高兴，它非常喜欢雪。妈妈说：“要下大雪了，你别出去。”我觉得下雪的北京非常漂亮。",
+    "en": "Yesterday was sunny; today is overcast and much colder than yesterday. In the afternoon it started snowing outside. I sat in my room watching the snow. My dog was happy too — it loves snow. Mom said, \"It's going to snow heavily, so don't go out.\" I think Beijing in the snow is really beautiful.",
+    "questions": [
+     {
+      "q": "What was the weather like yesterday?",
+      "options": [
+       "Sunny",
+       "Cloudy",
+       "Snowy"
+      ],
+      "answer": 0
+     },
+     {
+      "q": "What did Mom tell the writer?",
+      "options": [
+       "Go outside and play",
+       "Don't go out",
+       "Buy a newspaper"
+      ],
+      "answer": 1
+     },
+     {
+      "q": "What does the writer think of Beijing in the snow?",
+      "options": [
+       "Very beautiful",
+       "Too cold",
+       "Boring"
+      ],
+      "answer": 0
+     }
+    ]
+   }
+  }
+ ]
+}
