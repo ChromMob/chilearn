@@ -86,6 +86,9 @@ checked before it ships:
   version that both recognisers still hear exactly right (full strength, else 0.7, else unchanged). On a test set this
   raised tone-shape matches from 59% to 94% for words and from 52% to 85% for sentences.
 
+Current build: 16,431 of 16,537 clips (99.4%) verified; 13,257 of 14,674 word and sentence clips (90%) carry the
+clearer tones, the rest stay as recorded because the stronger version was no longer heard exactly right.
+
 Regenerate with `build/audio/collect.js` → `gen.py` → `repair.py` → `clarify_all.py` → `pack.py` (all resumable;
 `chain.sh` and `chain2.sh` run them in order).
 
