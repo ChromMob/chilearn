@@ -15,6 +15,12 @@ if os.path.exists(os.path.join(HERE, 'repairs.jsonl')):
         try: r = json.loads(line)
         except Exception: continue
         if r.get('ok') and r.get('file') and r['key'] in rs: rs[r['key']] = r
+# clearer tones (clarify_all.py): used when made from the current take and still recognised exactly
+if os.path.exists(os.path.join(HERE, 'clarified.jsonl')):
+    for line in open(os.path.join(HERE, 'clarified.jsonl')):
+        try: r = json.loads(line)
+        except Exception: continue
+        if r.get('clear', 0) > 0 and r['key'] in rs and rs[r['key']]['file'] == r.get('src'): rs[r['key']] = r
 def level_of(pack):
     if pack == 'shared': return 'shared'
     if pack.startswith('adv'): return 'adv'
@@ -22,6 +28,8 @@ def level_of(pack):
 # loudness: measure each clip once (cached) and store a playback volume so every clip sounds equally loud
 RMS_CACHE = os.path.join(HERE, 'rms.json')
 rms = json.load(open(RMS_CACHE)) if os.path.exists(RMS_CACHE) else {}
+for r in rs.values():
+    if r.get('rms') is not None and r['file'] not in rms: rms[r['file']] = r['rms']
 def clip_rms(fn):
     if fn not in rms:
         pcm = subprocess.run(['ffmpeg', '-loglevel', 'error', '-i', os.path.join(HERE, 'cache', fn), '-f', 'f32le', '-ac', '1', '-ar', '16000', 'pipe:'], capture_output=True).stdout

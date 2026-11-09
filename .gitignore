@@ -15,3 +15,4 @@ build/audio/bench*.py
 build/audio/probe*.py
 build/audio/results.jsonl
 build/audio/repairs.jsonl
+build/audio/clarified.jsonl

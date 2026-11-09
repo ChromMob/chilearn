@@ -78,9 +78,16 @@ checked before it ships:
   characters that sound the same in context (的/得/地, 他/她/它), and then tries other takes and other Kokoro voices of
   the same gender; clips that still never pass are flagged so the app uses the device voice for them instead;
 - single syllables: the voice’s consonant and vowel are kept and the exact citation tone contour is imposed with the
-  WORLD vocoder, then confirmed by the app’s own pitch tracker.
+  WORLD vocoder, then confirmed by the app’s own pitch tracker;
+- clearer tones for words and sentences (`clarify.py`): the neural voice’s pitch movement is natural but small (median
+  2.8 semitones per syllable; only about half of syllables match their tone’s shape), so each syllable is located
+  (speech-model alignment plus the consonant’s energy dip) and its pitch is pulled to the textbook contour of its tone
+  after sandhi (3-3, 一, 不; non-final 3rd tones as half-thirds; neutral tones left alone). A clip keeps the clearest
+  version that both recognisers still hear exactly right (full strength, else 0.7, else unchanged). On a test set this
+  raised tone-shape matches from 59% to 94% for words and from 52% to 85% for sentences.
 
-Regenerate with `build/audio/collect.js` → `gen.py` → `repair.py` → `pack.py` (all resumable; `chain.sh` runs the last three).
+Regenerate with `build/audio/collect.js` → `gen.py` → `repair.py` → `clarify_all.py` → `pack.py` (all resumable;
+`chain.sh` and `chain2.sh` run them in order).
 
 ## Content changes
 
