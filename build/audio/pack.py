@@ -22,6 +22,12 @@ if os.path.exists(os.path.join(HERE, 'clarified.jsonl')):
         try: r = json.loads(line)
         except Exception: continue
         if r.get('clear', 0) > 0 and r['key'] in rs and rs[r['key']]['file'] == r.get('src'): rs[r['key']] = r
+# single syllables (syllables.py): clear citation tones, clean endings; replace the earlier vocoder versions
+if os.path.exists(os.path.join(HERE, 'syllables.jsonl')):
+    for line in open(os.path.join(HERE, 'syllables.jsonl')):
+        try: r = json.loads(line)
+        except Exception: continue
+        if r.get('file') and r['key'] in rs and rs[r['key']].get('kind') == 'syl': rs[r['key']] = r
 def level_of(pack):
     if pack == 'shared': return 'shared'
     if pack.startswith('adv'): return 'adv'

@@ -77,8 +77,12 @@ checked before it ships:
 - a second pass (`repair.py`) re-checks every failure with a second, independent recogniser (Paraformer), ignores
   characters that sound the same in context (的/得/地, 他/她/它), and then tries other takes and other Kokoro voices of
   the same gender; clips that still never pass are flagged so the app uses the device voice for them instead;
-- single syllables: the voice’s consonant and vowel are kept and the exact citation tone contour is imposed with the
-  WORLD vocoder, then confirmed by the app’s own pitch tracker;
+- single syllables (tone drills, one-character words; `syllables.py` + `citation.py`): the neural voice says an isolated
+  syllable with almost no tone movement and often adds a faint breath after it. Each syllable is cut to its own voicing,
+  its vowel is lengthened per tone (3rd longest, 4th shortest) and it gets a wide textbook contour (1st high and level,
+  2nd rising about 7 semitones, 3rd dipping low then rising, 4th falling about 12 semitones) with Praat’s overlap-add
+  resynthesis, which adds no vocoder noise. The app’s own pitch tracker must read back the intended tone (1,863 of
+  1,863 do);
 - clearer tones for words and sentences (`clarify.py`): the neural voice’s pitch movement is natural but small (median
   2.8 semitones per syllable; only about half of syllables match their tone’s shape), so each syllable is located
   (speech-model alignment plus the consonant’s energy dip) and its pitch is pulled to the textbook contour of its tone
@@ -89,7 +93,7 @@ checked before it ships:
 Current build: 16,431 of 16,537 clips (99.4%) verified; 13,257 of 14,674 word and sentence clips (90%) carry the
 clearer tones, the rest stay as recorded because the stronger version was no longer heard exactly right.
 
-Regenerate with `build/audio/collect.js` → `gen.py` → `repair.py` → `clarify_all.py` → `pack.py` (all resumable;
+Regenerate with `build/audio/collect.js` → `gen.py` → `repair.py` → `clarify_all.py` → `syllables.py` → `pack.py` (all resumable;
 `chain.sh` and `chain2.sh` run them in order).
 
 ## Content changes
@@ -107,4 +111,4 @@ characters. Stroke data: Make Me a Hanzi via hanzi-writer-data (Arphic Public Li
 (MIT). Pinyin generation: pinyin-pro (MIT). Speech checking: zipformer CTC Chinese model from k2-fsa
 (icefall / sherpa-onnx, small int8 2025-07-16; check its license terms before commercial use), run with ONNX Runtime
 Web (MIT). Course voice: Kokoro-82M v1.1-zh (Apache 2.0) run offline with sherpa-onnx;
-verification with SenseVoice and Paraformer speech recognition (build time only, not shipped); single-syllable tones resynthesised with the WORLD vocoder (pyworld).
+verification with SenseVoice and Paraformer speech recognition (build time only, not shipped); word and sentence tones reshaped with the WORLD vocoder (pyworld); single-syllable tones with Praat via praat-parselmouth.
