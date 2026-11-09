@@ -94,7 +94,7 @@ export async function courseClipPcm(text: string, voice?: 'f' | 'm'): Promise<{ 
 }
 /** Start downloading a unit's audio before it is needed. */
 export function prefetchAudio(packId: string) {
-  for (const ix of indexes.values()) if (ix.files.includes(packId + '.mp3')) { packBytes(packId + '.mp3').catch(() => {}); return; }
+  for (const ix of indexes.values()) { const f = ix.files.find(n => n === packId + '.mp3' || n.startsWith(packId + '.')); if (f) { packBytes(f).catch(() => {}); return; } }
 }
 function playbackRate(slow?: boolean) { return slow ? 0.7 : rate >= 1 ? 1 : rate >= 0.85 ? 0.95 : 0.8; }
 

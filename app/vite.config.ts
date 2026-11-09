@@ -29,6 +29,9 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
         runtimeCaching: [
           { urlPattern: ({ url }) => url.pathname.includes('/data/'), handler: 'StaleWhileRevalidate', options: { cacheName: 'course-data', expiration: { maxEntries: 40 } } },
+          // audio indexes change with every re-pack: network first so offsets always match the packs (cache when offline)
+          { urlPattern: ({ url }) => url.pathname.includes('/audio/index-'), handler: 'NetworkFirst', options: { cacheName: 'course-audio-index', networkTimeoutSeconds: 4, expiration: { maxEntries: 20 } } },
+          // packs have content-hashed names, so a cached pack never goes stale
           { urlPattern: ({ url }) => url.pathname.includes('/audio/'), handler: 'CacheFirst', options: { cacheName: 'course-audio', expiration: { maxEntries: 200 } } },
           // speech model runtime (the model itself is cached by the speech worker)
           { urlPattern: ({ url }) => url.pathname.endsWith('.wasm'), handler: 'CacheFirst', options: { cacheName: 'speech-runtime', expiration: { maxEntries: 4 } } },

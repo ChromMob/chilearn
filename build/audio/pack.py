@@ -1,5 +1,6 @@
 """Pack verified clips into one MP3 sprite per unit (+ a shared pack) and write per-level indexes for the app.
-Output: app/public/audio/<pack>.mp3 and app/public/audio/index-<level>.json  ({files: [...], clips: {text: [fileIdx, start, length, verified]}})"""
+Output: app/public/audio/<pack>.<hash>.mp3 and app/public/audio/index-<level>.json  ({files: [...], clips: {text: [fileIdx, start, length, verified]}})"""
+import hashlib
 import json, os, subprocess, sys
 import numpy as np
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -42,7 +43,7 @@ ref = float(np.median([r['rms'] for r in rs.values() if r['kind'] != 'syl' and r
 def volume(r): return round(min(1.0, ref / r['rms']), 2) if r['rms'] > 0 else 1.0
 packs = {}
 for r in rs.values(): packs.setdefault(r['pack'], []).append(r)
-indexes = {}; total = 0
+indexes = {}; total = 0; written = set()
 for pack, clips in sorted(packs.items()):
     clips.sort(key=lambda r: r['key'])
     buf = bytearray(); entries = {}
@@ -50,10 +51,14 @@ for pack, clips in sorted(packs.items()):
         data = open(os.path.join(HERE, 'cache', r['file']), 'rb').read()
         entries[r['key']] = [len(buf), len(data), 1 if r['ok'] else 0, volume(r)]
         buf += data
-    open(os.path.join(OUT, f'{pack}.mp3'), 'wb').write(bytes(buf)); total += len(buf)
+    # content-hashed name: the app caches packs forever, so a changed pack must get a new URL
+    name = f'{pack}.{hashlib.sha1(buf).hexdigest()[:8]}.mp3'; written.add(name)
+    open(os.path.join(OUT, name), 'wb').write(bytes(buf)); total += len(buf)
     idx = indexes.setdefault(level_of(pack), {'files': [], 'clips': {}})
-    fi = len(idx['files']); idx['files'].append(f'{pack}.mp3')
+    fi = len(idx['files']); idx['files'].append(name)
     for k, (start, ln, ok, vol) in entries.items(): idx['clips'][k] = [fi, start, ln, ok] + ([vol] if vol < 0.98 else [])
+for f in os.listdir(OUT):
+    if f.endswith('.mp3') and f not in written: os.remove(os.path.join(OUT, f))   # superseded packs
 for lv, idx in indexes.items():
     json.dump(idx, open(os.path.join(OUT, f'index-{lv}.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 ok = sum(1 for r in rs.values() if r['ok'])
