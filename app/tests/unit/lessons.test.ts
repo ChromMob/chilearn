@@ -2,10 +2,10 @@ import { describe, it, expect, beforeAll, vi } from 'vitest';
 import fs from 'node:fs';
 import type { Item } from '../../src/lib/types';
 
-// Serve ./data/* from public/data so the real loaders run under test.
+// Serve ./data/* and ./audio/* from public/ so the real loaders run under test.
 beforeAll(() => {
   vi.stubGlobal('fetch', async (url: string) => {
-    const p = 'public/data/' + String(url).split('/data/')[1];
+    const u = String(url); const p = u.includes('/audio/') ? 'public/audio/' + u.split('/audio/')[1] : 'public/data/' + u.split('/data/')[1];
     return { ok: fs.existsSync(p), status: fs.existsSync(p) ? 200 : 404, json: async () => JSON.parse(fs.readFileSync(p, 'utf8')) } as any;
   });
 });

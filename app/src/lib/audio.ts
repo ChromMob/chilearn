@@ -63,9 +63,12 @@ async function getJson<T>(url: string): Promise<T> {
   throw last;
 }
 /** Load the clip index for a level ('shared', '1'…'6', 'adv'). Safe to call repeatedly. */
+const failedIdx = new Map<string, number>();
 export function loadAudioIndex(level: string): Promise<void> {
   if (indexes.has(level)) return Promise.resolve();
-  if (!loadingIdx.has(level)) loadingIdx.set(level, getJson<AudioIndex>(`./audio/index-${level}.json`).then(ix => { indexes.set(level, ix); listeners.forEach(f => f()); }).catch(() => { loadingIdx.delete(level); }));
+  // after a failed load (offline, or a level without bundled audio) don't make every lesson wait for retries again
+  if (Date.now() - (failedIdx.get(level) || 0) < 60000) return Promise.resolve();
+  if (!loadingIdx.has(level)) loadingIdx.set(level, getJson<AudioIndex>(`./audio/index-${level}.json`).then(ix => { indexes.set(level, ix); listeners.forEach(f => f()); }).catch(() => { loadingIdx.delete(level); failedIdx.set(level, Date.now()); }));
   return loadingIdx.get(level)!;
 }
 function findClip(text: string, voice?: 'f' | 'm'): { ix: AudioIndex; clip: Clip; key: string } | null {
