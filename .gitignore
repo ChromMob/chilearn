@@ -7,9 +7,11 @@ __pycache__/
 site/
 dist/
 *.zip
-# audio generation working files (regenerable; results.jsonl/repairs.jsonl record what was verified)
+# audio generation working files (regenerable; the shipped audio indexes record which clips passed verification)
 build/audio/cache/
 build/audio/*.log
 build/audio/rms.json
 build/audio/bench*.py
 build/audio/probe*.py
+build/audio/results.jsonl
+build/audio/repairs.jsonl
